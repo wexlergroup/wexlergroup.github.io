@@ -4,21 +4,21 @@ title: "Research"
 author_profile: false
 layout: splash
 feature_row:
-  - image_path: /assets/images/ris.png
+  - image_path: /assets/structures/Au_110.jpg
     alt: "placeholder image 2"
     title: "Surfaces"
     excerpt: "This is some sample content that goes here with **Markdown** ."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/ris.png
+  - image_path: /assets/structures/Y2Ti2O7.jpg
     alt: "placeholder image 2"
     title: "Catalysts"
     excerpt: "This is some sample content that goes here with **Markdown** ."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/ris.png
+  - image_path: /assets/structures/BaZrS3.jpg
     alt: "placeholder image 2"
     title: "Photovoltaics"
     excerpt: "This is some sample content that goes here with **Markdown** ."
