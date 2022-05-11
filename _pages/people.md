@@ -19,5 +19,25 @@ Office: Jolley Hall 407
 ***
 
 ## Postdocs
+
+Positions are available immediately with funding anticipated for several years 
+from a startup fund. Interested applicants should email Rob with a cover letter, 
+CV, and contact information for three references. Starting dates are negotiable.
+{: .text-justify}
+
 ## Grad Students
+
+The Wexler group currently is looking for Ph.D. students to work on all ongoing 
+research projects. More information about our graduate program and application 
+process can be found [here](https://chemistry.wustl.edu/graduate). Prospective 
+graduate students are eligible to apply for several research fellowships before 
+or after being admitted to Washington University in St. Louis, including the 
+[NSF Graduate Research Fellowship](https://www.nsfgrfp.org/). Please contact Rob 
+if you are interested in submitting an application.
+{: .text-justify}
+
 ## Undergraduates
+
+We actively are on the lookout for motivated students to join our group and 
+always have open positions!
+{: .text-justify}
