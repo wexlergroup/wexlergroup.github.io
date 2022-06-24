@@ -23,6 +23,7 @@ Office: Jolley Hall 407
 Positions are available immediately with funding anticipated for several years 
 from a startup fund. Interested applicants should email Rob with a cover letter, 
 CV, and contact information for three references. Starting dates are negotiable.
+[https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Chemistry_JR67640](https://wustl.wd1.myworkdayjobs.com/External/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Chemistry_JR67640)
 {: .text-justify}
 
 ## Grad Students
