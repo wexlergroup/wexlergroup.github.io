@@ -11,10 +11,14 @@ layout: splash
 
 ## Postdoctoral research
 
+R. B. Wexler, E. B. Stechel, and E. A. Carter.
+Materials Design Directions for Solar Thermochemical Water Splitting.
+In Solar Fuels, Vol. 3, Nurdan Demirci Sankir & Mehmet Sankir, Eds. (Wiley-Scrivener, USA), in press (2022).
+
 [PDF](../assets/papers/Banerjee2021p11706.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acscatal.1c03639){: .btn .btn--danger}
 Banerjee, S.; Kakekhani, Arvin; Wexler, R. B.; Rappe, A. M.
-Mechanistic Insights into CO<sub>2</sub> Electroreduction on Ni<sub>2</sub>P: Understanding Its Selectivity toward Multicarbon Products
+Mechanistic Insights into CO<sub>2</sub> Electroreduction on Ni<sub>2</sub>P: Understanding Its Selectivity toward Multicarbon Products.
 *ACS Catal.* **2021**, *11* (18), 11706–11715.
 
 [PDF](../assets/papers/Wexler2021p13212.pdf){: .btn .btn--primary}
