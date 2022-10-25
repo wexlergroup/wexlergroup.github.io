@@ -81,7 +81,10 @@ Office: Jolley Hall 408
     </tr>
     <tr>
         <td>
-            
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/kayleigh-photo.png">
+                <img src="/assets/images/kayleigh-photo.png" alt=""></a>
+            </figure>
         </td>
         <td>
 <b>Kayleigh Hernandez</b><br />
