@@ -11,9 +11,11 @@ layout: splash
 
 ## Postdoctoral research
 
-R. B. Wexler, E. B. Stechel, and E. A. Carter.
-Materials Design Directions for Solar Thermochemical Water Splitting.
-In Solar Fuels, Vol. 3, Nurdan Demirci Sankir & Mehmet Sankir, Eds. (Wiley-Scrivener, USA), in press (2022).
+[PDF](../assets/papers/Wexler2022p2200592.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1002/adts.202200592){: .btn .btn--danger}
+Wexler, R. B.; Carter, E. A.
+Oxygen-Chlorine Chemisorption Scaling for Seawater Electrolysis on Transition Metals: The Role of Redox
+*Adv. Theory Simul.* **2022**, 2200592.
 
 [PDF](../assets/papers/Banerjee2021p11706.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acscatal.1c03639){: .btn .btn--danger}
