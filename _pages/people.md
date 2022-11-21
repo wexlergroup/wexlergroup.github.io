@@ -93,6 +93,20 @@ Email: h.kayleigh@wustl.edu<br />
 Office: Jolley Hall 408
         </td>
     </tr>
+    <tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/nancy-photo.png">
+                <img src="/assets/images/nancy-photo.png" alt=""></a>
+            </figure>
+        </td>
+        <td>
+<b>Nancy Patel</b><br />
+<i>Computer Science + Math and Economics Double Major</i><br />
+Email: nancy.patel@wustl.edu<br />
+Office: Jolley Hall 408
+        </td>
+    </tr>
 </table>
 
 We actively are on the lookout for motivated students to join our group and 
