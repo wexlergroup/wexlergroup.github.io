@@ -73,7 +73,7 @@ if you are interested in submitting an application.
         <td>
             <p>
 <b>Avital Isakov</b><br />
-<i>Chemistry Major</i><br />
+<i>Chemistry and Anthropology Double Major</i><br />
 Email: a.isakov@wustl.edu<br />
 Office: Jolley Hall 408
             </p>
