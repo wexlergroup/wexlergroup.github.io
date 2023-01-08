@@ -42,7 +42,7 @@ Office: Jolley Hall 407
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., <span style="color: #00508F;">New Zealand Institute for Advanced Study, Massey University</span> (2022)<br />
 B.S., <span style="color: #f9c013;">University of Otago</span> (2017)<br />
-Email:<br />
+Email: ray.yang@wustl.edu<br />
 Office: Jolley Hall 408
             </p>
         </td>
