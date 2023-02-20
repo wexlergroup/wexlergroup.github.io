@@ -82,20 +82,6 @@ Office: Jolley Hall 408
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/kayleigh-photo.png">
-                <img src="/assets/images/kayleigh-photo.png" alt=""></a>
-            </figure>
-        </td>
-        <td>
-<b>Kayleigh Hernandez</b><br />
-<i>Computer Science Major</i><br />
-Email: h.kayleigh@wustl.edu<br />
-Office: Jolley Hall 408
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/nancy-photo.png">
                 <img src="/assets/images/nancy-photo.png" alt=""></a>
             </figure>
@@ -104,6 +90,20 @@ Office: Jolley Hall 408
 <b>Nancy Patel</b><br />
 <i>Computer Science + Math and Economics Double Major</i><br />
 Email: nancy.patel@wustl.edu<br />
+Office: Jolley Hall 408
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/ethan-photo.png">
+                <img src="/assets/images/ethan-photo.png" alt=""></a>
+            </figure>
+        </td>
+        <td>
+<b>Ethan Nussinov</b><br />
+<i>Data Science Major</i><br />
+Email: ethan.nussinov@wustl.edu<br />
 Office: Jolley Hall 408
         </td>
     </tr>
