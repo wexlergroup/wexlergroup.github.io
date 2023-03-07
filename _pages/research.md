@@ -13,6 +13,19 @@ feature_row:
   - image_path: /assets/structures/BaZrS3.jpg
     alt: "Photovoltaics"
     title: "Photovoltaics"
+feature_row2:
+  - image_path: /assets/images/theta.jpg
+    alt: "Argonne Leadership Computing Facility"
+    title: "Argonne Leadership Computing Facility"
+    excerpt: "**Theta** <br>
+    *Architecture* = Intel-Cray XC40 <br>
+    *Speed* = 11.7 petaflops <br>
+    *Processor per node* = 64-core, 1.3-GHz Intel Xeon Phi 7230 <br>
+    *Nodes* = 4,392 <br> 
+    *Cores* = 281,088 <br> 
+    *Memory* = 843 TB <br> 
+    *High-bandwidth memory* = 70 TB <br>
+    *Interconnect* = Aries network with Dragonfly topology"
 ---
 
 <br>
@@ -50,13 +63,16 @@ broadly, my career plans can be subdivided into four distinct visions that
 address these challenges from different angles:
 {: .text-justify}
 
-1. To develop state-of-the-art computational techniques for the realistic 
-modeling of materials interfaces
-2. To provide fundamental understanding and design principles for sustainable 
-H<sub>2</sub> production and controllable CO<sub>2</sub> conversion
-3. To improve solar-cell efficiency via chemical modification and interfacial 
-engineering
-4. To create efficient machine learning tools for the accurate simulation and 
-rational design of ferroelectric energy harvesters
+1. To develop state-of-the-art computational techniques for the realistic modeling of materials 
+   interfaces
+2. To provide fundamental understanding and design principles for sustainable H<sub>2</sub> 
+   production and controllable CO<sub>2</sub> conversion
+3. To improve solar-cell efficiency via chemical modification and interfacial engineering
+4. To create efficient machine learning tools for the accurate simulation and rational design of 
+   ferroelectric energy harvesters
 
 {% include feature_row %}
+
+## Computing Resources
+
+{% include feature_row id="feature_row2" type="left" %}
