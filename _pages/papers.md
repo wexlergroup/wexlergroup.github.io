@@ -11,6 +11,12 @@ layout: splash
 
 ## Postdoctoral research
 
+[PDF](../assets/papers/Banerjee2023p4611.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1021/acscatal.2c06427){: .btn .btn--danger}
+Banerjee, S.; Kakekhani, Arvin; Wexler, R. B.; Rappe, A. M.
+Relationship between the Surface Reconstruction of Nickel Phosphides and Their Activity toward the Hydrogen Evolution Reaction
+*ACS Catal.* **2023**, 13, 4611–4621.
+
 [PDF](../assets/papers/Wexler2022p2200592.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1002/adts.202200592){: .btn .btn--danger}
 Wexler, R. B.; Carter, E. A.
