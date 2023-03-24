@@ -9,7 +9,7 @@ layout: splash
 
 # Wexler Group Papers
 
-## Postdoctoral research
+## Before WashU
 
 [PDF](../assets/papers/Banerjee2023p4611.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acscatal.2c06427){: .btn .btn--danger}
@@ -53,7 +53,7 @@ Wexler, R. B.; Gautam, S. G.; Carter, E. A.
 Exchange-correlation functional challenges in modeling quaternary chalcogenides.
 *Phys. Rev. B*, **2020**, *102*, 054101 (1-11).
 
-## Graduate research
+## Before Princeton
 
 [PDF](../assets/papers/Wexler2019p174109.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1103/PhysRevB.100.174109){: .btn .btn--danger}
@@ -97,7 +97,7 @@ Wexler, R. B.; Martirez, J. M. P.; Rappe, A. M.
 Stable Phosphorus-Enriched (0001) Surfaces of Nickel Phosphides.
 *Chem. Mater.* **2016**, *28* (15), 5365-5372.
 
-## Undergraduate research
+## Before Penn
 
 [PDF](../assets/papers/Wexler2016p97.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1166/rits.2016.1051){: .btn .btn--danger}
