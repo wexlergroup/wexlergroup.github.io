@@ -17,6 +17,12 @@ Banerjee, S.; Kakekhani, Arvin; Wexler, R. B.; Rappe, A. M.
 Relationship between the Surface Reconstruction of Nickel Phosphides and Their Activity toward the Hydrogen Evolution Reaction
 *ACS Catal.* **2023**, 13, 4611–4621.
 
+[PDF](../assets/papers/Gao2023p5931.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1021/acs.jpcc.2c07844){: .btn .btn--danger}
+Gao, L.; Wexler, R. B.; Fei, R.; Rappe, A. M.
+Ab Initio Study of Hydrogen Niobate HNbO<sub>3</sub>: Structural, Thermodynamic, Dielectric, and Optical Properties
+*J. Phys. Chem. C* **2023**, *127* (12), 5931–5940.
+
 [PDF](../assets/papers/Wexler2022p2200592.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1002/adts.202200592){: .btn .btn--danger}
 Wexler, R. B.; Carter, E. A.
@@ -39,19 +45,19 @@ Factors Governing Oxygen Vacancy Formation in Oxide Perovskites.
 [DOI](https://doi.org/10.1038/s41566-020-00732-4){: .btn .btn--danger}
 Kim, Y.-H.; Kim, S.; Kakekhani, A.; Park, J.; Park, J.-H.; Lee, D.; Heo, S.; Xu, H.; Wexler, R. B.; Jo, S.-H.; Lee, Y.-H.; Sadhanala, A.; Tan, P.; Mart&iacute;nez-Sarti, L.; Park, G.-S.; Kim, Y.-W.; Bin-Hu; Bolink, H. J.; Yoo, S.; Friend, R. H.; Rappe, A. M.; Lee, T.-W.
 Comprehensive defect suppression in perovskite nanocrystals for high-efficiency light-emitting diodes.
-*Nat. Photonics*, **2021**, *15*, 148-155.
+*Nat. Photonics* **2021**, *15*, 148-155.
 
 [PDF](../assets/papers/Wexler2021p9882.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D0TA11603C){: .btn .btn--danger}
 Wexler, R. B.; Gautam, S. G.; Carter, E. A.
 Optimizing kesterite solar cells from Cu<sub>2</sub>ZnSnS<sub>4</sub> to Cu<sub>2</sub>CdGe(S,Se)<sub>4</sub>.
-*J. Mater. Chem. A*, **2021**, *9*, 9882-9897.
+*J. Mater. Chem. A* **2021**, *9*, 9882-9897.
 
 [PDF](../assets/papers/Wexler2020p054101.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1103/PhysRevB.102.054101){: .btn .btn--danger}
 Wexler, R. B.; Gautam, S. G.; Carter, E. A.
 Exchange-correlation functional challenges in modeling quaternary chalcogenides.
-*Phys. Rev. B*, **2020**, *102*, 054101 (1-11).
+*Phys. Rev. B* **2020**, *102*, 054101 (1-11).
 
 ## Before Princeton
 
@@ -59,13 +65,13 @@ Exchange-correlation functional challenges in modeling quaternary chalcogenides.
 [DOI](https://doi.org/10.1103/PhysRevB.100.174109){: .btn .btn--danger}
 Wexler, R. B.; Qi, Y.; Rappe, A. M.
 Sr-induced dipole scatter in Ba<sub>*x*</sub>Sr<sub>1-*x*</sub>TiO<sub>3</sub>: Insights from a transferable-bond valence-based interatomic potential.
-*Phys. Rev. B.* **2019**, *100*, 174109 (1-9).
+*Phys. Rev. B* **2019**, *100*, 174109 (1-9).
 
 [PDF](../assets/papers/Wexler2019p2321.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acs.jpcc.8b11093){: .btn .btn--danger}
 Wexler, R. B.; Qiu, T.; Rappe, A. M.
 Automatic Prediction of Surface Phase Diagrams Using *Ab Initio* Grand Canonical Monte Carlo.
-*J. Phys. Chem. B.* **2019**, *123* (4), 2321-2328.
+*J. Phys. Chem. C* **2019**, *123* (4), 2321-2328.
 
 [PDF](../assets/papers/Laursen2018p4408.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acscatal.7b04466){: .btn .btn--danger}
