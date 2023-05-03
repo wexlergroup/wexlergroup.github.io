@@ -11,22 +11,29 @@ layout: splash
 
 ## Before WashU
 
+[PDF](../assets/papers/Wexler2023.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1039/D3EE00234A){: .btn .btn--danger}
+Wexler, R. B.; Gautam, G. S.; Bell, R. T.; Shulda, S.; Strange, N. A.; Trindell, J. A.; Sugar, J. D.; Nygren, E.; Sainio, S.; McDaniel, A. H.; Ginley, D.; Carter, E. A.; Stechel, E. B.
+Multiple and Nonlocal Cation Redox in Ca–Ce–Ti–Mn Oxide Perovskites for Solar Thermochemical Applications.
+*Energy Environ. Sci.* **2023**.
+
+
 [PDF](../assets/papers/Banerjee2023p4611.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acscatal.2c06427){: .btn .btn--danger}
 Banerjee, S.; Kakekhani, Arvin; Wexler, R. B.; Rappe, A. M.
-Relationship between the Surface Reconstruction of Nickel Phosphides and Their Activity toward the Hydrogen Evolution Reaction
+Relationship between the Surface Reconstruction of Nickel Phosphides and Their Activity toward the Hydrogen Evolution Reaction.
 *ACS Catal.* **2023**, 13, 4611–4621.
 
 [PDF](../assets/papers/Gao2023p5931.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acs.jpcc.2c07844){: .btn .btn--danger}
 Gao, L.; Wexler, R. B.; Fei, R.; Rappe, A. M.
-Ab Initio Study of Hydrogen Niobate HNbO<sub>3</sub>: Structural, Thermodynamic, Dielectric, and Optical Properties
+Ab Initio Study of Hydrogen Niobate HNbO<sub>3</sub>: Structural, Thermodynamic, Dielectric, and Optical Properties.
 *J. Phys. Chem. C* **2023**, *127* (12), 5931–5940.
 
 [PDF](../assets/papers/Wexler2022p2200592.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1002/adts.202200592){: .btn .btn--danger}
 Wexler, R. B.; Carter, E. A.
-Oxygen-Chlorine Chemisorption Scaling for Seawater Electrolysis on Transition Metals: The Role of Redox
+Oxygen-Chlorine Chemisorption Scaling for Seawater Electrolysis on Transition Metals: The Role of Redox.
 *Adv. Theory Simul.* **2022**, 2200592.
 
 [PDF](../assets/papers/Banerjee2021p11706.pdf){: .btn .btn--primary}
