@@ -17,6 +17,11 @@ Wexler, R. B.; Gautam, G. S.; Bell, R. T.; Shulda, S.; Strange, N. A.; Trindell,
 Multiple and Nonlocal Cation Redox in Ca–Ce–Ti–Mn Oxide Perovskites for Solar Thermochemical Applications.
 *Energy Environ. Sci.* **2023**.
 
+[PDF](../assets/papers/Wexler2023p1.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1002/9781119752097.ch1){: .btn .btn--danger}
+Wexler, R. B.; Stechel, E. B.; Carter, E. A.
+Materials Design Directions for Solar Thermochemical Water Splitting.
+*Solar Fuels* **2023**, 1.
 
 [PDF](../assets/papers/Banerjee2023p4611.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acscatal.2c06427){: .btn .btn--danger}
