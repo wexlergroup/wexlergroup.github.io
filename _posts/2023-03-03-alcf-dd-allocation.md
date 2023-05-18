@@ -8,6 +8,7 @@ awarded 50,000 node-hours on the Theta supercomputer by the Argonne Leadership
 Computing Facility (ALCF). This allocation, part of the ALCF Director's
 Discretionary (DD) program, will support our project, focusing on surface
 structure exploration via a novel computational technique.
+{: .text-justify}
 
 We look forward to sharing our findings in the coming months. Stay tuned for
 updates!

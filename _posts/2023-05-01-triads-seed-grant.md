@@ -12,9 +12,10 @@ selected for the [TRIADS](https://triads.wustl.edu/) Seed Grants. Our project,
 "Conformal Prediction for Uncertainty Quantification in Emerging Application
 Areas, from Materials to Social Science," aims to investigate uncertainty
 quantification in complex phenomena within chemical and social sciences.
+{: .text-justify}
 
 [TRIADS announces recipients of seed grant funding](https://artsci.wustl.edu/ampersand/triads-announces-recipients-seed-grant-funding)
+{: .text-justify}
 
 [Wexler, Sinclair, and Lunde selected as TRIADS Seed Grant recipients](https://chemistry.wustl.edu/news/wexler-sinclair-and-lunde-selected-triads-seed-grant-recipients)
-
 {: .text-justify}
