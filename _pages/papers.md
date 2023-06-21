@@ -9,6 +9,12 @@ layout: splash
 
 # Wexler Group Papers
 
+[PDF](../assets/papers/Choudhary2023.pdf){: .btn .btn--primary}
+[DOI](https://arxiv.org/abs/2306.11688){: .btn .btn--danger}
+Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krogel, J. T.; Saritas, K.; Fuhr, A.; Ganesh, P.; Kent, P. R. C.; Yan, K.; Lin, Y.; Ji, S.; Blaiszik, B.; Reiser, P.; Friederich, P.; Agrawal, A.; Tiwary, P.; Beyerle, E.; Minch, P.; Rhone, T. D.; Takeuchi, I.; Wexler, R. B.; Mannodi-Kanakkithodi, A.; Ertekin, E.; Mishra, A.; Mathew, N.; Baird, S. G.; Wood, M.; Rohskopf, A. D.; Hattrick-Simpers, J.; Wang, S.-H.; Achenie, L. E. K.; Xin, H.; Williams, M.; Biacchi, A. J.; Tavazza, F. 
+Large Scale Benchmark of Materials Design Methods
+*arXiv* **2023**, 2306.11688.
+
 ## Before WashU
 
 [PDF](../assets/papers/Wexler2023.pdf){: .btn .btn--primary}
