@@ -17,11 +17,17 @@ Large Scale Benchmark of Materials Design Methods
 
 ## Before WashU
 
-[PDF](../assets/papers/Wexler2023.pdf){: .btn .btn--primary}
+[PDF](../assets/papers/Lupi2023.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1002/adma.202302012){: .btn .btn--danger}
+Lupi, E.; Wexler, R. B.; Meyers, D.; Zahradnik, A.; Jiang, Y.; Susarla, S.; Ramesh, R.; Martin, L. W.; Rappe, Andrew M.
+Engineering Relaxor Behavior in (BaTiO<sub>3</sub>)<sub><i>n</i></sub>/(SrTiO<sub>3</sub>)<sub><i>n</i></sub> Superlattices.
+*Adv. Mater.* **2023**, Accepted Article.
+
+[PDF](../assets/papers/Wexler2023p2550.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D3EE00234A){: .btn .btn--danger}
 Wexler, R. B.; Gautam, G. S.; Bell, R. T.; Shulda, S.; Strange, N. A.; Trindell, J. A.; Sugar, J. D.; Nygren, E.; Sainio, S.; McDaniel, A. H.; Ginley, D.; Carter, E. A.; Stechel, E. B.
 Multiple and Nonlocal Cation Redox in Ca–Ce–Ti–Mn Oxide Perovskites for Solar Thermochemical Applications.
-*Energy Environ. Sci.* **2023**.
+*Energy Environ. Sci.* **2023**, 16, 2550-2560.
 
 [PDF](../assets/papers/Wexler2023p1.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1002/9781119752097.ch1){: .btn .btn--danger}
