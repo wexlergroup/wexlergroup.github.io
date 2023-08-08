@@ -1,0 +1,88 @@
+import csv
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import HuberRegressor
+
+#Asks user for csv file path
+def ask_for_csv_file():
+    while True:
+        file_path = input("Please enter the path to the CSV file: ")
+        try:
+            # Attempt to open the file to check if it exists and is accessible
+            with open(file_path, 'r') as file:
+                return file_path  # Return the file path if it's valid
+        except FileNotFoundError:
+            print("File not found. Please try again.")
+        except IOError:
+            print("Error reading the file. Please check the file path and try again.")
+
+#Reads file, assigns columns 
+def read_csv_and_select_columns(file_path, column1_index, column2_index):
+    column1_values = []  # List to store values from the first column
+    column2_values = []  # List to store values from the second column
+
+    with open(file_path, 'r') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            try:
+                column1_value = row[column1_index]
+                column2_value = row[column2_index]
+
+                column1_values.append(column1_value)
+                column2_values.append(column2_value)
+            except IndexError:
+                print("Invalid column index. Check the number of columns in the CSV file.")
+                return
+
+    return column1_values, column2_values
+
+if __name__ == "__main__":
+    csv_file_path = ask_for_csv_file()
+    column1_index = int(input("Enter the index of the column containing explanatory data (starting from 0): "))
+    column2_index = int(input("Enter the index of the column containing response data (starting from 0): "))
+
+    print("Reading the CSV file and selecting columns...")
+    column1_values, column2_values = read_csv_and_select_columns(csv_file_path, column1_index, column2_index)
+    #Removes column name
+    column1_values.pop(0)
+    column2_values.pop(0)
+    #Ensures datatypes of elements are floats
+    column1_floats = [float(x) for x in column1_values]
+    column2_floats = [float(x) for x in column2_values]
+    #Converts to array
+    column1_floats = np.array(column1_floats)
+    column2_floats = np.array(column2_floats)
+
+# Use train_test_split to split the data of both columns into training, calibration, and testing parts
+X_train, X_rest, y_train, y_rest = train_test_split(column1_floats, column2_floats, train_size=63, random_state=42)
+X_calib, X_test, y_calib, y_test = train_test_split(X_rest, y_rest, train_size= 63, random_state= 42)
+
+#Fit data with desired model
+model = HuberRegressor()
+model.fit(X_train.reshape(-1,1), y_train)
+
+#Make predictions from model
+predictions = model.predict(X_calib.reshape(-1,1)).transpose()
+
+#Find residuals
+residuals = np.abs(predictions - y_calib)
+#Sort df of residuals by descending order
+residuals_df = pd.DataFrame(residuals)
+residuals_df.rename(columns = {0:"Residuals"}, inplace = True)
+sort_residuals = residuals_df.sort_values(by =['Residuals'], ascending = False)
+
+#Prompt user for Alpha
+def ask_for_alpha():
+    while True:
+        try:
+            alpha = float(input("Please enter a value for alpha: "))
+            return alpha
+        except ValueError:
+            print("Invalid input. Please enter a valid numeric value for alpha.")
+
+alpha = ask_for_alpha()
+
+#Find the cutoff point using specified alpha
+qhat = np.quantile(sort_residuals, 1-alpha)
+print(qhat)
