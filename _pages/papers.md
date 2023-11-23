@@ -7,7 +7,15 @@ layout: splash
 
 <br>
 
-# Wexler Group Papers
+[Google Scholar](https://scholar.google.com/citations?user=BMnroAsAAAAJ&hl=en&oi=ao){: .btn .btn--inverse}
+
+## Wexler Group Papers
+
+[PDF](../assets/papers/Yang2023.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.48550/arXiv.2308.08509){: .btn .btn--danger}
+Yang, M.; Pártay, L. B.; Wexler, R. B.
+Surface Phase Diagrams from Nested Sampling
+*arXiv* **2023**, 2308.08509.
 
 [PDF](../assets/papers/Choudhary2023.pdf){: .btn .btn--primary}
 [DOI](https://arxiv.org/abs/2306.11688){: .btn .btn--danger}
