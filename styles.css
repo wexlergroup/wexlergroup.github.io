@@ -1,0 +1,93 @@
+:root {
+    --red: #a51417;
+    --gray: #6c7373;
+    --gray-light: #c8c8c8;
+    --gray-dark: #3d3d3d;
+    --gray-extra-light: #eeeeee;
+    --green: #007360;
+}
+
+.card {
+    display: flex;
+    align-items: flex-start; /* changed from center to flex-start */
+    border: none;
+    margin: 20px;
+    padding: 20px;
+    max-width: 600px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    cursor: pointer; /* Optional: changes the cursor to a pointer when hovering over the card */
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 10%;
+    margin-right: 20px;
+    border: 3px solid var(--red);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card img:hover {
+    transform: scale(1.1);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* ensures that the content takes up the full height of the container */
+    flex: 1; /* ensures that the container takes up the remaining space inside the card */
+    padding-bottom: 20px; /* adds padding to the bottom of the container */
+}
+
+.container p,
+.container a {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: var(--gray);
+}
+
+.container b {
+    font-size: 1.4em;
+    margin-bottom: 10px;
+    color: var(--red);
+}
+
+.container i {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    color: var(--gray-dark);
+}
+
+.container a {
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+    border-bottom: 1px solid var(--red);
+}
+
+.container a:hover {
+    color: var(--green);
+    border-bottom-color: var(--green);
+}
+
+.hidden-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease-in-out;
+}
+
+.card.expanded {
+    max-height: 500px; /* Increased max height for expanded view */
+}
+
+.card.expanded .hidden-content {
+    max-height: 350px; /* Adjust as needed */
+}

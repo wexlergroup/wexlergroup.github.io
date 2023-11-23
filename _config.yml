@@ -20,7 +20,6 @@ email: wexler@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Theoretical materials innovation for renewable energy and environmental
   applications
-twitter_username: robertowexler
 github_username: wexlergroup
 minimal_mistakes_skin: default
 search: true
@@ -67,9 +66,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/robertowexler"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/robertowexler"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wexlergroup"
@@ -79,9 +78,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/robertowexler"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/robertowexler"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wexlergroup"
@@ -96,11 +95,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false  # true
+      read_time: false  # true
+      comments: false  # true
+      share: false  # true
+      related: false  # true
   # _pages
   - scope:
       path: "_pages"
