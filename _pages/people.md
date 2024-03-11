@@ -57,6 +57,20 @@ layout: splash
 ## Graduate Students
 
 <div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/junchi-photo.png" alt="Junchi Chen" class="card-image">
+  <div class="container">
+    <p><b>Junchi Chen</b></p>
+    <p><i>Graduate Student</i></p>
+    <div class="hidden-content">
+      <p>M.E., Southern University of Science and Technology (2022)</p>
+      <p>B.S., Zhejiang Gongshang University (2019)</p>
+      <p>Email: <a href="mailto:c.junchi@wustl.edu">c.junchi@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
   <img src="/assets/masthead-logo/masthead-logo.png" alt="Ph.D. Opportunities" class="card-image">
   <div class="container">
     <p><b>Ph.D. Positions Available</b></p>
@@ -100,18 +114,6 @@ layout: splash
     <p><i>Data Science</i></p>
     <div class="hidden-content">
       <p>Email: <a href="mailto:ethan.nussinov@wustl.edu">ethan.nussinov@wustl.edu</a></p>
-      <p>Office: Jolley Hall 408</p>
-    </div>
-  </div>
-</div>
-
-<div class="card" onclick="toggleCard(this)">
-  <img src="/assets/images/zach-photo.png" alt="Ethan Nussinov">
-  <div class="container">
-    <p><b>Zach Ben-Meir</b></p>
-    <p><i>Chemistry</i></p>
-    <div class="hidden-content">
-      <p>Email: <a href="mailto:ben-meir@wustl.edu">ben-meir@wustl.edu</a></p>
       <p>Office: Jolley Hall 408</p>
     </div>
   </div>
