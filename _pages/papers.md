@@ -11,31 +11,31 @@ layout: splash
 
 ## Wexler Group Papers
 
-[PDF](../assets/papers/Yang2023.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.48550/arXiv.2308.08509){: .btn .btn--danger}
-Yang, M.; Pártay, L. B.; Wexler, R. B.
-Surface Phase Diagrams from Nested Sampling
-*arXiv* **2023**, 2308.08509.
-
 [PDF](../assets/papers/Choudhary2023.pdf){: .btn .btn--primary}
 [DOI](https://arxiv.org/abs/2306.11688){: .btn .btn--danger}
 Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krogel, J. T.; Saritas, K.; Fuhr, A.; Ganesh, P.; Kent, P. R. C.; Yan, K.; Lin, Y.; Ji, S.; Blaiszik, B.; Reiser, P.; Friederich, P.; Agrawal, A.; Tiwary, P.; Beyerle, E.; Minch, P.; Rhone, T. D.; Takeuchi, I.; Wexler, R. B.; Mannodi-Kanakkithodi, A.; Ertekin, E.; Mishra, A.; Mathew, N.; Baird, S. G.; Wood, M.; Rohskopf, A. D.; Hattrick-Simpers, J.; Wang, S.-H.; Achenie, L. E. K.; Xin, H.; Williams, M.; Biacchi, A. J.; Tavazza, F. 
 Large Scale Benchmark of Materials Design Methods
 *arXiv* **2023**, 2306.11688.
 
+[PDF](../assets/papers/Yang2024.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1039/D4CP00050A){: .btn .btn--danger}
+Yang, M.; Pártay, L. B.; Wexler, R. B.
+Surface phase diagrams from nested sampling
+*Phys. Chem. Chem. Phys.* **2023**, Advance Article.
+
 ## Before WashU
 
-[PDF](../assets/papers/Lupi2023.pdf){: .btn .btn--primary}
+[PDF](../assets/papers/Lupi2023p2302012.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1002/adma.202302012){: .btn .btn--danger}
 Lupi, E.; Wexler, R. B.; Meyers, D.; Zahradnik, A.; Jiang, Y.; Susarla, S.; Ramesh, R.; Martin, L. W.; Rappe, Andrew M.
 Engineering Relaxor Behavior in (BaTiO<sub>3</sub>)<sub><i>n</i></sub>/(SrTiO<sub>3</sub>)<sub><i>n</i></sub> Superlattices.
-*Adv. Mater.* **2023**, Accepted Article.
+*Adv. Mater.* **2023**, *35* (51), 2302012.
 
 [PDF](../assets/papers/Wexler2023p2550.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D3EE00234A){: .btn .btn--danger}
 Wexler, R. B.; Gautam, G. S.; Bell, R. T.; Shulda, S.; Strange, N. A.; Trindell, J. A.; Sugar, J. D.; Nygren, E.; Sainio, S.; McDaniel, A. H.; Ginley, D.; Carter, E. A.; Stechel, E. B.
 Multiple and Nonlocal Cation Redox in Ca–Ce–Ti–Mn Oxide Perovskites for Solar Thermochemical Applications.
-*Energy Environ. Sci.* **2023**, 16, 2550-2560.
+*Energy Environ. Sci.* **2023**, *16* (6), 2550-2560.
 
 [PDF](../assets/papers/Wexler2023p1.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1002/9781119752097.ch1){: .btn .btn--danger}
@@ -47,7 +47,7 @@ Materials Design Directions for Solar Thermochemical Water Splitting.
 [DOI](https://doi.org/10.1021/acscatal.2c06427){: .btn .btn--danger}
 Banerjee, S.; Kakekhani, Arvin; Wexler, R. B.; Rappe, A. M.
 Relationship between the Surface Reconstruction of Nickel Phosphides and Their Activity toward the Hydrogen Evolution Reaction.
-*ACS Catal.* **2023**, 13, 4611–4621.
+*ACS Catal.* **2023**, *13* (7), 4611–4621.
 
 [PDF](../assets/papers/Gao2023p5931.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acs.jpcc.2c07844){: .btn .btn--danger}
@@ -59,7 +59,7 @@ Ab Initio Study of Hydrogen Niobate HNbO<sub>3</sub>: Structural, Thermodynamic,
 [DOI](https://doi.org/10.1002/adts.202200592){: .btn .btn--danger}
 Wexler, R. B.; Carter, E. A.
 Oxygen-Chlorine Chemisorption Scaling for Seawater Electrolysis on Transition Metals: The Role of Redox.
-*Adv. Theory Simul.* **2022**, 2200592.
+*Adv. Theory Simul.* **2022**, *6* (10), 2200592.
 
 [PDF](../assets/papers/Banerjee2021p11706.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acscatal.1c03639){: .btn .btn--danger}
