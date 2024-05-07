@@ -11,16 +11,16 @@ layout: splash
 
 ## Wexler Group Papers
 
-[PDF](../assets/papers/Choudhary2023.pdf){: .btn .btn--primary}
-[DOI](https://arxiv.org/abs/2306.11688){: .btn .btn--danger}
-Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krogel, J. T.; Saritas, K.; Fuhr, A.; Ganesh, P.; Kent, P. R. C.; Yan, K.; Lin, Y.; Ji, S.; Blaiszik, B.; Reiser, P.; Friederich, P.; Agrawal, A.; Tiwary, P.; Beyerle, E.; Minch, P.; Rhone, T. D.; Takeuchi, I.; Wexler, R. B.; Mannodi-Kanakkithodi, A.; Ertekin, E.; Mishra, A.; Mathew, N.; Baird, S. G.; Wood, M.; Rohskopf, A. D.; Hattrick-Simpers, J.; Wang, S.-H.; Achenie, L. E. K.; Xin, H.; Williams, M.; Biacchi, A. J.; Tavazza, F. 
-Large Scale Benchmark of Materials Design Methods
-*arXiv* **2023**, 2306.11688.
+[PDF](../assets/papers/Choudhary2024p93.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1038/s41524-024-01259-w){: .btn .btn--danger}
+Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krogel, J. T.; Saritas, K.; Fuhr, A.; Ganesh, P.; Kent, P. R. C.; Yan, K.; Lin, Y.; Ji, S.; Blaiszik, B.; Reiser, P.; Friederich, P.; Agrawal, A.; Tiwary, P.; Beyerle, E.; Minch, P.; Rhone, T. D.; Takeuchi, I.; Wexler, R. B.; Mannodi-Kanakkithodi, A.; Ertekin, E.; Mishra, A.; Mathew, N.; Wood, M.; Rohskopf, A. D.; Hattrick-Simpers, J.; Wang, S.-H.; Achenie, L. E. K.; Xin, H.; Williams, M.; Biacchi, A. J.; Tavazza, F.
+JARVIS-Leaderboard: A Large Scale Benchmark of Materials Design Methods.
+*npj Comput. Mater.* **2024**, *10* (1), 93.
 
 [PDF](../assets/papers/Yang2024.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D4CP00050A){: .btn .btn--danger}
 Yang, M.; Pártay, L. B.; Wexler, R. B.
-Surface phase diagrams from nested sampling
+Surface phase diagrams from nested sampling.
 *Phys. Chem. Chem. Phys.* **2023**, Advance Article.
 
 ## Before WashU
