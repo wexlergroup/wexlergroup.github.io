@@ -3,16 +3,6 @@ permalink: /research/
 title: "Research"
 author_profile: false
 layout: splash
-feature_row:
-  - image_path: /assets/images/surface-nested-sampling.png
-#    alt: "Surfaces"
-#    title: "Surfaces"
-  - image_path: /assets/images/nanocrystals.png
-#    alt: "Catalysts"
-#    title: "Catalysts"
-  - image_path: /assets/structures/BaZrS3.jpg
-#    alt: "Photovoltaics"
-#    title: "Photovoltaics"
 feature_row2:
   - image_path: /assets/images/theta.jpg
     alt: "Argonne Leadership Computing Facility"
@@ -31,6 +21,7 @@ feature_row2:
 <br>
 
 # Table of Contents
+
 1. [Wexler Group Research](#wexler-group-research)
 2. [Surface Phase Diagrams](#surface-phase-diagrams)
 3. [Solar Thermochemical Hydrogen Production](#solar-thermochemical-hydrogen-production)
@@ -72,10 +63,98 @@ distinct visions that address these challenges from different angles:
 
 ## Surface Phase Diagrams
 
+<div style="text-align: justify;">
+    <img src="/assets/images/catalyst-surfaces.png" alt="" style="width:50%; float:right; margin-left:20px;">
+    <p>Heterogeneous catalysts are essential for industrial chemical production. Enhancing their efficiency requires an
+    atomic-level understanding of surface structures and active sites. Key factors in catalyst design include surface
+    reconstruction and degradation. Surface reconstruction involves changes in periodicity, species coordination,
+    composition, and thickness along the surface normal, differing from the bulk material. Degradation refers to the gradual
+    loss of catalytic activity and selectivity over time due to environmental or operational stresses. The operating
+    environment significantly impacts these transformations, affecting catalyst activity and selectivity. Designing
+    efficient catalysts necessitates understanding the conditions under which surfaces restructure in situ. Surface
+    structure and composition measurements are often complicated by interactions with solutes and solvents, ex-situ
+    oxidation, and reactive conditions that can damage experimental apparatus. This project focuses on developing
+    computational methodologies to predict the equilibrium reconstructions of catalyst surfaces. Although active catalysts
+    are typically out of equilibrium, they can establish a surface equilibrium before catalysis begins. The primary goal is
+    to identify the most stable catalyst surface form, providing a foundation for further studies on its behavior during
+    active catalysis. As a proof-of-concept, we applied nested sampling to the adsorption of Lennard-Jones gas particles on
+    low-index and vicinal Lennard-Jones solid surfaces. By constructing the canonical partition function from the recorded
+    energies, we can calculate ensemble averages of thermodynamic properties, such as constant-volume heat capacity and
+    order parameters that characterize adsorbate phase structures.</p>
+</div>
+
+Yang, M.; Pártay, L. B.; Wexler, R. B. Surface Phase Diagrams from Nested Sampling. *Phys. Chem. Chem. Phys.* **2024**,
+*26* (18), 13862.
+{: .text-justify}
+
 ## Solar Thermochemical Hydrogen Production
+
+<div style="text-align: justify;">
+    <img src="/assets/images/hydrogen-production.png" alt="" style="width:50%; float:right; margin-left:20px;">
+    <p>Two-step solar thermochemical hydrogen production (STCH) cycles utilize redox-active metal oxides (MOx) that undergo thermal reduction and re-oxidation to split water and produce hydrogen. The STCH cycle involves heating MOx to temperatures exceeding 1500 K using concentrated solar radiation. The material reduces to an oxygen-deficient state (MOx–δ) at these high temperatures and low oxygen partial pressures. In the subsequent step, the reduced MOx is exposed to superheated steam, leading to re-oxidation and water splitting, generating hydrogen and regenerating the original MOx. Our perovskite material, (Ca, Ce)(Ti, Mn)O3–δ, exhibits remarkable off-stoichiometric redox activity, forming and filling oxygen vacancies during the thermal reduction and re-oxidation steps without significant bulk phase transitions, enhancing kinetics, cyclability, and durability. This interdisciplinary project integrates theoretical modeling, synthesis, characterization, material thermodynamics, reactor design and prototyping, system mass/energy flow analysis, and technoeconomic analysis. The goal is to develop a robust, cost-effective STCH cycle using (Ca, Ce)(Ti, Mn)O3–δ perovskites, leveraging their compositional flexibility and abundant metal precursors. Building on HydroGEN advances, this research addresses affordability, stability, and large-scale clean hydrogen production challenges.</p>
+</div>
+
+Wexler, R. B.; Sai Gautam, G.; Bell, R. T.; Shulda, S.; Strange, N. A.; Trindell, J. A.; Sugar, J. D.; Nygren, E.;
+Sainio, S.; McDaniel, A. H.; Ginley, D.; Carter, E. A.; Stechel, E. B. Multiple and Nonlocal Cation Redox in Ca–Ce–Ti–Mn
+Oxide Perovskites for Solar Thermochemical Applications. *Energy Environ. Sci.* **2023**, *16* (6), 2550.
+{: .text-justify}
 
 ## Nanocrystal Synthesis
 
+This research aims to develop a framework combining experimental and computational methods to understand how halides
+influence the crystal structure and phase of manganese chalcogenide nanocrystals during synthesis. Key objectives
+include identifying pre-nucleation species, conducting thermochemical measurements of reactions and surface-ligand
+interactions, and monitoring nucleation and growth kinetics using in situ techniques. We use quantum-mechanics-based
+calculations to reveal atomic-scale interactions and mechanisms determining crystal structures and phases. These
+calculations inform kinetic and thermodynamic models of nanocrystal nucleation and growth, providing multi-scale
+computational guidance for controlled synthesis. The research extends to lanthanide chalcogenide nanocrystals, which
+have unique optical and magnetic properties but are less explored. The ultimate goal is to enhance the chemical
+understanding of Mn and Ln chalcogenide nanocrystal synthesis, offering insights for the broader scientific community
+and aiding in synthesizing other material classes.
+{: .text-justify}
+
 ## Computing Resources
+
+<link rel="stylesheet" type="text/css" href="../styles.css">
+<script src="../script.js" defer></script>
+
+<div class="card" onclick="toggleCard(this)">
+<img src="" alt="">
+<div class="container">
+  <p><b>bear</b></p>
+  <p><i>Wexler Group</i></p>
+  <div class="hidden-content">
+    <p>PowerEdge T550</p>
+    <p>Intel Xeon Gold 6338 Processor</p>
+    <p>2.00 GHz</p>
+    <p>64 cores</p>
+  </div>
+</div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
+<img src="" alt="">
+<div class="container">
+  <p><b>dragon</b></p>
+  <p><i>Wexler Group</i></p>
+  <div class="hidden-content">
+    <p>PowerEdge C6520</p>
+    <p>Intel Xeon Gold 6338 Processor</p>
+    <p>2.00 GHz</p>
+    <p>256 cores (4 nodes)</p>
+  </div>
+</div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
+<img src="" alt="">
+<div class="container">
+  <p><b>Theta</b></p>
+  <p><i>Argonne Leadership Computing Facility</i></p>
+  <div class="hidden-content">
+    <p></p>
+  </div>
+</div>
+</div>
 
 {% include feature_row id="feature_row2" type="left" %}
