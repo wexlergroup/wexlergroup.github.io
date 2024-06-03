@@ -14,12 +14,11 @@ feature_row:
 
 <br>
 
-The Wexler group is focused on theoretical materials innovation for renewable energy and environmental applications,
-with a special emphasis on developing computational methods for the more realistic modeling of interfacial phenomena in
-electrocatalysis, solar energy conversion, and environmental energy harvesting. We are driven by the prospects of using
-first-principles calculations, Monte Carlo simulations, and machine learning as a synergistic approach for developing a
-fundamental understanding of complex materials systems, discovering relationships between their structure and function,
-and identifying promising routes for device optimization.
+The Wexler Group focuses on theoretical materials innovation for renewable energy and environmental applications. We
+develop advanced computational methods to model interfacial phenomena in electrocatalysis, solar energy conversion, and
+environmental energy harvesting. Using first-principles calculations, Monte Carlo simulations, and machine learning, we
+aim to understand complex materials systems, discover structure-function relationships, identify promising materials,
+and optimize them for enhanced performance.
 {: .text-justify}
 
 {% include feature_row %}
