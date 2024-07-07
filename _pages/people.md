@@ -8,6 +8,12 @@ layout: splash
 <link rel="stylesheet" type="text/css" href="../styles.css">
 <script src="../script.js" defer></script>
 
+<br>
+
+## Photo Gallery
+
+## Principal Investigator
+
 <div class="card" onclick="toggleCard(this)">
 <img src="/assets/images/rob-photo.png" alt="Robert B. Wexler">
 <div class="container">
@@ -84,12 +90,12 @@ layout: splash
 ## Undergraduate Students
 
 <div class="card" onclick="toggleCard(this)">
-  <img src="/assets/images/avital-photo.png" alt="Avital Isakov">
+  <img src="/assets/masthead-logo/masthead-logo.png" alt="Douglas Thibodeaux">
   <div class="container">
-    <p><b>Avital Isakov</b></p>
-    <p><i>Chemistry & Anthropology</i></p>
+    <p><b>Douglas Thibodeaux</b></p>
+    <p><i>Chemistry</i></p>
     <div class="hidden-content">
-      <p>Email: <a href="mailto:a.isakov@wustl.edu">a.isakov@wustl.edu</a></p>
+      <p>Email: <a href="mailto:d.t.thibodeaux@wustl.edu">d.t.thibodeaux@wustl.edu</a></p>
       <p>Office: Jolley Hall 408</p>
     </div>
   </div>
@@ -120,3 +126,16 @@ layout: splash
 </div>
 
 {: .text-justify}
+
+## Alumni
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/avital-photo.png" alt="Avital Isakov">
+  <div class="container">
+    <p><b>Avital Isakov</b></p>
+    <p><i>Chemistry & Anthropology</i></p>
+    <div class="hidden-content">
+      <p>Current Position: Ph.D. Student, University of California, Los Angeles</p>
+    </div>
+  </div>
+</div>
