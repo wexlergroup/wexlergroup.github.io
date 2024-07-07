@@ -17,7 +17,7 @@ Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krog
 JARVIS-Leaderboard: A Large Scale Benchmark of Materials Design Methods.
 *npj Comput. Mater.* **2024**, *10* (1), 93.
 
-[PDF](../assets/papers/Yang2024.pdf){: .btn .btn--primary}
+[PDF](../assets/papers/Yang2024p13862.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D4CP00050A){: .btn .btn--danger}
 Yang, M.; Pártay, L. B.; Wexler, R. B.
 Surface phase diagrams from nested sampling.

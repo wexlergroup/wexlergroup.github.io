@@ -9,3 +9,7 @@ main:
     url: /papers/
   - title: "People"
     url: /people/
+  - title: "Software"
+    url: /software/
+  - title: "Teaching"
+    url: /teaching/

@@ -156,5 +156,3 @@ and aiding in synthesizing other material classes.
   </div>
 </div>
 </div>
-
-{% include feature_row id="feature_row2" type="left" %}
