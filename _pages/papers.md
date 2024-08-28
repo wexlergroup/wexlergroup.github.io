@@ -11,8 +11,10 @@ layout: splash
 
 ## Wexler Group Papers
 
+[PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.26434/chemrxiv-2024-wrp5z){: .btn .btn--danger}
 Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
-Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications
+Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
 *ChemRxiv* **2024**.
 
 [PDF](../assets/papers/Choudhary2024p93.pdf){: .btn .btn--primary}
