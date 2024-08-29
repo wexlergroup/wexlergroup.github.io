@@ -27,7 +27,7 @@ JARVIS-Leaderboard: A Large Scale Benchmark of Materials Design Methods.
 [DOI](https://doi.org/10.1039/D4CP00050A){: .btn .btn--danger}
 Yang, M.; Pártay, L. B.; Wexler, R. B.
 Surface phase diagrams from nested sampling.
-*Phys. Chem. Chem. Phys.* **2023**, *26* (18), 13862.
+*Phys. Chem. Chem. Phys.* **2024**, *26* (18), 13862.
 
 ## Before WashU
 
