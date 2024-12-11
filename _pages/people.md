@@ -77,6 +77,32 @@ layout: splash
 </div>
 
 <div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/bridget-ferris.jpg" alt="Bridget Ferris" class="card-image">
+  <div class="container">
+    <p><b>Bridget Ferris</b></p>
+    <p><i>Graduate Student</i></p>
+    <div class="hidden-content">
+      <p>B.S., Austin College (2024)</p>
+      <p>Email: <a href="mailto:b.s.ferris@wustl.edu">b.s.ferris@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/eyob-tewelde.jpg" alt="Eyob Tewelde" class="card-image">
+  <div class="container">
+    <p><b>Eyob Tewelde</b></p>
+    <p><i>Graduate Student</i></p>
+    <div class="hidden-content">
+      <p>B.S., University of Chicago (2024)</p>
+      <p>Email: <a href="mailto:eyob@wustl.edu">eyob@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="card" onclick="toggleCard(this)">
   <img src="/assets/masthead-logo/masthead-logo.png" alt="Ph.D. Opportunities" class="card-image">
   <div class="container">
     <p><b>Ph.D. Positions Available</b></p>
@@ -85,7 +111,7 @@ layout: splash
       <p>The Wexler group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>.</p>
     </div>
   </div>
-</div>
+</div> -->
 
 ## Undergraduate Students
 
@@ -101,7 +127,7 @@ layout: splash
   </div>
 </div>
 
-<div class="card" onclick="toggleCard(this)">
+<!-- <div class="card" onclick="toggleCard(this)">
   <img src="/assets/images/nancy-photo.png" alt="Nancy Patel">
   <div class="container">
     <p><b>Nancy Patel</b></p>
@@ -123,7 +149,7 @@ layout: splash
       <p>Office: Jolley Hall 408</p>
     </div>
   </div>
-</div>
+</div> -->
 
 {: .text-justify}
 
