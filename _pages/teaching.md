@@ -25,3 +25,13 @@ Have you ever wondered how molecular interactions shape the world around us? Why
 **Semester**: Fall 2024
 
 ## Chem 4020/5020: Physical Chemistry II
+
+[Website](https://rwexler.github.io/chem-402-5020/intro.html){: .btn .btn--inverse}
+[Syllabus](../assets/chem-402-5020/syllabus.pdf){: .btn .btn--inverse}
+
+Intro to the properties and kinetic theory of gases, chemical thermodynamics, and statistical mechanics.
+{: .text-justify}
+
+![image-center](../assets/chem-402-5020/logo.png){: .align-center}
+
+**Semester**: Spring 2023, Spring 2024, Spring 2025
