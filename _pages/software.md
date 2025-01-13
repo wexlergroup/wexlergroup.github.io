@@ -12,7 +12,7 @@ layout: splash
 # Development
 
 <div class="card-new">
-  <img src="path-to-your-logo.png" alt="FreeBird.jl Logo" class="card-logo">
+  <img src="../assets/freebird/logo.png" alt="FreeBird.jl Logo" class="card-logo">
   <h3>FreeBird.jl</h3>
   <p class="justified">FreeBird.jl is a Julia package aimed at advancing statistical thermodynamic modeling of material imperfections. It integrates lattice models and atomistic systems with various sophisticated sampling methods, including direct quadrature, Metropolis Monte Carlo, replica exchange, Wang-Landau sampling, and nested sampling, to provide comprehensive and accurate simulations.</p>
   <div class="card-links">
