@@ -46,7 +46,7 @@ layout: splash
 </div>
 
 <div class="card" onclick="toggleCard(this)">
-  <img src="/assets/images/manish-photo.png" alt="Manish Kumar" class="card-image">
+  <img src="/assets/images/manish-photo-1.jpg" alt="Manish Kumar" class="card-image">
   <div class="container">
     <p><b>Manish Kumar</b></p>
     <p><i>Postdoctoral Research Associate</i></p>
@@ -116,7 +116,31 @@ layout: splash
 ## Undergraduate Students
 
 <div class="card" onclick="toggleCard(this)">
-  <img src="/assets/masthead-logo/masthead-logo.png" alt="Douglas Thibodeaux">
+  <img src="/assets/images/matthew-photo.jpg" alt="Matthew Rao" class="card-image">
+  <div class="container">
+    <p><b>Matthew Rao</b></p>
+    <p><i>Computer Science + Math & Chemistry</i></p>
+    <div class="hidden-content">
+      <p>Email: <a href="mailto:matthewrao@wustl.edu">matthewrao@wustl.edu</a></p>
+      <p>Office: Jolley Hall 424</p>
+    </div>
+  </div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/phoebe-photo.jpg" alt="Phoebe Taylor" class="card-image">
+  <div class="container">
+    <p><b>Phoebe Taylor</b></p>
+    <p><i>Computer Science</i></p>
+    <div class="hidden-content">
+      <p>Email: <a href="mailto:phoebe.t@wustl.edu">phoebe.t@wustl.edu</a></p>
+      <p>Office: Jolley Hall 424</p>
+    </div>
+  </div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/douglas-photo.jpg" alt="Douglas Thibodeaux" class="card-image">
   <div class="container">
     <p><b>Douglas Thibodeaux</b></p>
     <p><i>Chemistry</i></p>
