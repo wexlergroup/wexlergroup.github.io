@@ -10,8 +10,6 @@ layout: splash
 
 <br>
 
-## Photo Gallery
-
 ## Principal Investigator
 
 <div class="card" onclick="toggleCard(this)">
@@ -165,3 +163,52 @@ layout: splash
     </div>
   </div>
 </div>
+
+## Photo Gallery
+<div class="swiper gallery-swiper">
+  <div class="swiper-wrapper">
+    {% for image in site.static_files %}
+      {% if image.path contains 'assets/photos' %}
+      <div class="swiper-slide">
+        <img src="{{ image.path | relative_url }}" alt="Gallery image">
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Navigation buttons -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+<!-- Link to full gallery page -->
+<div class="gallery-link-container">
+  <a href="{{ '/gallery' | relative_url }}" class="gallery-link">View Full Photo Gallery</a>
+</div>
+
+<!-- Include Swiper.js CSS and JS -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+<script>
+  const swiper = new Swiper(".gallery-swiper", {
+    loop: true,
+    speed: 800,
+    effect: 'coverflow',
+    fadeEffect: {
+      crossFade: false,
+    },
+    autoplay: {
+      delay: 3500,
+      disableOnInteraction: false,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    pagination: false, // disable pagination dots
+  });
+</script>

@@ -90,7 +90,7 @@ Yang, M.; Pártay, L. B.; Wexler, R. B. Surface Phase Diagrams from Nested Sampl
 ## Solar Thermochemical Hydrogen Production
 
 <div style="text-align: justify;">
-    <img src="/assets/images/hydrogen-production.png" alt="" style="width:50%; float:right; margin-left:20px;">
+    <img src="/assets/images/hydrogen-production.png" alt="Hydrogen Production" style="width:50%; float:right; margin-left:20px;">
     <p>Two-step solar thermochemical hydrogen production (STCH) cycles utilize redox-active metal oxides (MOx) that undergo thermal reduction and re-oxidation to split water and produce hydrogen. The STCH cycle involves heating MOx to temperatures exceeding 1500 K using concentrated solar radiation. The material reduces to an oxygen-deficient state (MOx–δ) at these high temperatures and low oxygen partial pressures. In the subsequent step, the reduced MOx is exposed to superheated steam, leading to re-oxidation and water splitting, generating hydrogen and regenerating the original MOx. Our perovskite material, (Ca, Ce)(Ti, Mn)O3–δ, exhibits remarkable off-stoichiometric redox activity, forming and filling oxygen vacancies during the thermal reduction and re-oxidation steps without significant bulk phase transitions, enhancing kinetics, cyclability, and durability. This interdisciplinary project integrates theoretical modeling, synthesis, characterization, material thermodynamics, reactor design and prototyping, system mass/energy flow analysis, and technoeconomic analysis. The goal is to develop a robust, cost-effective STCH cycle using (Ca, Ce)(Ti, Mn)O3–δ perovskites, leveraging their compositional flexibility and abundant metal precursors. Building on HydroGEN advances, this research addresses affordability, stability, and large-scale clean hydrogen production challenges.</p>
 </div>
 
@@ -119,40 +119,37 @@ and aiding in synthesizing other material classes.
 <script src="../script.js" defer></script>
 
 <div class="card" onclick="toggleCard(this)">
-<img src="" alt="">
-<div class="container">
-  <p><b>bear</b></p>
-  <p><i>Wexler Group</i></p>
-  <div class="hidden-content">
-    <p>PowerEdge T550</p>
-    <p>Intel Xeon Gold 6338 Processor</p>
-    <p>2.00 GHz</p>
-    <p>64 cores</p>
+  <div class="container">
+    <p><b>bear</b></p>
+    <p><i>Wexler Group</i></p>
+    <div class="hidden-content">
+      <p>PowerEdge T550</p>
+      <p>Intel Xeon Gold 6338 Processor</p>
+      <p>2.00 GHz</p>
+      <p>64 cores</p>
+    </div>
   </div>
-</div>
 </div>
 
 <div class="card" onclick="toggleCard(this)">
-<img src="" alt="">
-<div class="container">
-  <p><b>dragon</b></p>
-  <p><i>Wexler Group</i></p>
-  <div class="hidden-content">
-    <p>PowerEdge C6520</p>
-    <p>Intel Xeon Gold 6338 Processor</p>
-    <p>2.00 GHz</p>
-    <p>256 cores (4 nodes)</p>
+  <div class="container">
+    <p><b>dragon</b></p>
+    <p><i>Wexler Group</i></p>
+    <div class="hidden-content">
+      <p>PowerEdge C6520</p>
+      <p>Intel Xeon Gold 6338 Processor</p>
+      <p>2.00 GHz</p>
+      <p>256 cores (4 nodes)</p>
+    </div>
   </div>
-</div>
 </div>
 
 <div class="card" onclick="toggleCard(this)">
-<img src="" alt="">
-<div class="container">
-  <p><b>Theta</b></p>
-  <p><i>Argonne Leadership Computing Facility</i></p>
-  <div class="hidden-content">
-    <p></p>
+  <div class="container">
+    <p><b>Theta</b></p>
+    <p><i>Argonne Leadership Computing Facility</i></p>
+    <div class="hidden-content">
+      <p></p>
+    </div>
   </div>
-</div>
 </div>
