@@ -7,7 +7,7 @@ layout: splash
 
 <br>
 
-[Google Scholar](https://scholar.google.com/citations?user=BMnroAsAAAAJ&hl=en&oi=ao){: .btn .btn--inverse}
+[Google Scholar](https://scholar.google.com/citations?user=sCqcoMsAAAAJ&hl=en&oi=ao){: .btn .btn--inverse}
 
 ## Wexler Group Papers
 

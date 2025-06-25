@@ -86,6 +86,10 @@ distinct visions that address these challenges from different angles:
 Yang, M.; Pártay, L. B.; Wexler, R. B. Surface Phase Diagrams from Nested Sampling. *Phys. Chem. Chem. Phys.* **2024**,
 *26* (18), 13862.
 {: .text-justify}
+Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
+Adsorbate phase transitions on nanoclusters from nested sampling.
+*arXiv* **2025**, 2506.01295.
+{: .text-justify}
 
 ## Solar Thermochemical Hydrogen Production
 
@@ -97,6 +101,10 @@ Yang, M.; Pártay, L. B.; Wexler, R. B. Surface Phase Diagrams from Nested Sampl
 Wexler, R. B.; Sai Gautam, G.; Bell, R. T.; Shulda, S.; Strange, N. A.; Trindell, J. A.; Sugar, J. D.; Nygren, E.;
 Sainio, S.; McDaniel, A. H.; Ginley, D.; Carter, E. A.; Stechel, E. B. Multiple and Nonlocal Cation Redox in Ca–Ce–Ti–Mn
 Oxide Perovskites for Solar Thermochemical Applications. *Energy Environ. Sci.* **2023**, *16* (6), 2550.
+{: .text-justify}
+Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
+Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
+*ChemRxiv* **2024**.
 {: .text-justify}
 
 ## Nanocrystal Synthesis
