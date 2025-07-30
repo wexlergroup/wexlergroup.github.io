@@ -11,6 +11,12 @@ layout: splash
 
 ## Wexler Group Papers
 
+[PDF](../assets/papers/Douglas2025.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.26434/chemrxiv-2025-pm7kn){: .btn .btn--danger}
+Douglas, T.; Dzara, M.; Rowberg, A.; King, K.; Syrigou, M.; Strange, N.; Bell, R.; Goyal, A.; Guan, P.-W.; Wexler, R. B.; Varley, J.; Ogitsu, T.; Lany, S.; McDaniel, A.; Bishop, S.; Witman, M.
+Large-scale experimental validation of thermochemical water-splitting oxides discovered by defect graph neural networks.
+*ChemRxiv* **2025**.
+
 [PDF](../assets/papers/Chatbipho2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2506.01295){: .btn .btn--danger}
 Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
