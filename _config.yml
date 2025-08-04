@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # title: The Wexler Group
-masthead_title: "The W<i>e<sup>x</sup></i>ler Group"
+# "The W<i>e<sup>x</sup></i>ler Group"
+masthead_title: "The W𝑒ˣler Group"
 subtitle: At Washington University in St. Louis
 email: wexler@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"

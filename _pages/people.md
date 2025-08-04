@@ -30,9 +30,9 @@ layout: splash
 ## Postdoctoral Researchers
 
 <div class="card" onclick="toggleCard(this)">
-  <img src="/assets/images/ray-photo.jpg" alt="Mingrui (Ray) Yang" class="card-image">
+  <img src="/assets/images/ray-headshot.jpg" alt="Ray M. Yang" class="card-image">
   <div class="container">
-    <p><b>Mingrui (Ray) Yang</b></p>
+    <p><b>Ray M. Yang</b></p>
     <p><i>Postdoctoral Research Associate</i></p>
     <div class="hidden-content">
       <p>Ph.D., New Zealand Institute for Advanced Study, Massey University (2022)</p>
@@ -112,6 +112,18 @@ layout: splash
 </div> -->
 
 ## Undergraduate Students
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/audrey-headshot.jpg" alt="Audrey Hooper" class="card-image" style="width:120px; height:120px; object-fit:cover; object-position:center;">
+  <div class="container">
+    <p><b>Audrey Hooper</b></p>
+    <p><i>Chemistry & Physics</i></p>
+    <div class="hidden-content">
+      <p>Email: <a href="mailto:a.v.hooper@wustl.edu">a.v.hooper@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
 
 <div class="card" onclick="toggleCard(this)">
   <img src="/assets/images/matthew-photo.jpg" alt="Matthew Rao" class="card-image">
