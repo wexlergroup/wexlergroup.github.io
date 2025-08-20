@@ -13,7 +13,8 @@ layout: splash
 
 [PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
-Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R.; Zheng, Z. The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
+Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R.; Zheng, Z.
+The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
 *arXiv* **2025**.
 
 [PDF](../assets/papers/freebird_arxiv.pdf){: .btn .btn--primary}
