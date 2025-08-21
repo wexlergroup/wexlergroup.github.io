@@ -11,7 +11,7 @@ layout: splash
 
 ## Wexler Group Papers
 
-[PDF](../assets/papers/freebird_arxiv.pdf){: .btn .btn--primary}
+[PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2508.10237){: .btn .btn--danger}
 Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
 FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria
