@@ -19,7 +19,7 @@ Defect diffusion graph neural networks for materials discovery in high-temperatu
 
 [PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
-Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R.; Zheng, Z. 
+Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R.; Zheng, Z.
 The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
 *arXiv* **2025**.
 
@@ -27,6 +27,12 @@ The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
 [DOI](https://doi.org/10.48550/arXiv.2508.10237){: .btn .btn--danger}
 Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
 FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria
+*arXiv* **2025**.
+
+[PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
+Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R. B.; Zheng, Z.
+The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
 *arXiv* **2025**.
 
 [PDF](../assets/papers/Douglas2025.pdf){: .btn .btn--primary}
