@@ -11,9 +11,15 @@ layout: splash
 
 ## Wexler Group Papers
 
+[PDF](../assets/papers/Way2025.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
+Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
+Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
+*Chem. Mater* **2025**.
+
 [PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
-Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R.; Zheng, Z.
+Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R.; Zheng, Z. 
 The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
 *arXiv* **2025**.
 
@@ -34,12 +40,6 @@ Large-scale experimental validation of thermochemical water-splitting oxides dis
 Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
 Adsorbate phase transitions on nanoclusters from nested sampling.
 *arXiv* **2025**, 2506.01295.
-
-[PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.26434/chemrxiv-2024-wrp5z){: .btn .btn--danger}
-Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
-Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
-*ChemRxiv* **2024**.
 
 [PDF](../assets/papers/Choudhary2024p93.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1038/s41524-024-01259-w){: .btn .btn--danger}
