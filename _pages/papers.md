@@ -11,35 +11,17 @@ layout: splash
 
 ## Wexler Group Papers
 
-[PDF](../assets/papers/Way2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
-Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
-Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
-*Chem. Mater* **2025**.
-
-[PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
-Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R.; Zheng, Z.
-The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
-*arXiv* **2025**.
-
 [PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
-[DOI](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
+[DOI](https://doi.org/10.48550/arXiv.2508.10237){: .btn .btn--danger}
 Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
 FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria
-*J. Chem. Theory Comput* **2025**.
+*arXiv* **2025**.
 
 [PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
 Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R. B.; Zheng, Z.
 The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
-*arXiv* **2025**.
-
-[PDF](../assets/papers/Douglas2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.26434/chemrxiv-2025-pm7kn){: .btn .btn--danger}
-Douglas, T.; Dzara, M.; Rowberg, A.; King, K.; Syrigou, M.; Strange, N.; Bell, R.; Goyal, A.; Guan, P.-W.; Wexler, R. B.; Varley, J.; Ogitsu, T.; Lany, S.; McDaniel, A.; Bishop, S.; Witman, M.
-Large-scale experimental validation of thermochemical water-splitting oxides discovered by defect graph neural networks.
-*ChemRxiv* **2025**.
+*arXiv* **2025**, arXiv:2508.13197.
 
 [PDF](../assets/papers/Chatbipho2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2506.01295){: .btn .btn--danger}
@@ -47,17 +29,23 @@ Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
 Adsorbate phase transitions on nanoclusters from nested sampling.
 *arXiv* **2025**, 2506.01295.
 
+[PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.26434/chemrxiv-2024-wrp5z){: .btn .btn--danger}
+Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
+Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
+*ChemRxiv* **2024**.
+
 [PDF](../assets/papers/Choudhary2024p93.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1038/s41524-024-01259-w){: .btn .btn--danger}
 Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krogel, J. T.; Saritas, K.; Fuhr, A.; Ganesh, P.; Kent, P. R. C.; Yan, K.; Lin, Y.; Ji, S.; Blaiszik, B.; Reiser, P.; Friederich, P.; Agrawal, A.; Tiwary, P.; Beyerle, E.; Minch, P.; Rhone, T. D.; Takeuchi, I.; Wexler, R. B.; Mannodi-Kanakkithodi, A.; Ertekin, E.; Mishra, A.; Mathew, N.; Wood, M.; Rohskopf, A. D.; Hattrick-Simpers, J.; Wang, S.-H.; Achenie, L. E. K.; Xin, H.; Williams, M.; Biacchi, A. J.; Tavazza, F.
 JARVIS-Leaderboard: A Large Scale Benchmark of Materials Design Methods.
-*npj Comput. Mater.* **2024**, *10* (1), 93.
+*npj Comput. Mater.* **2024**, *10*, 93.
 
 [PDF](../assets/papers/Yang2024p13862.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D4CP00050A){: .btn .btn--danger}
 Yang, M.; Pártay, L. B.; Wexler, R. B.
 Surface phase diagrams from nested sampling.
-*Phys. Chem. Chem. Phys.* **2024**, *26* (18), 13862.
+*Phys. Chem. Chem. Phys.* **2024**, *26* (18), 13862–13874.
 
 ## Before WashU
 
