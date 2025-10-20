@@ -11,6 +11,12 @@ layout: splash
 
 ## Wexler Group Papers
 
+[PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
+[DOI](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
+Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
+FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria
+*J. Chem. Theory Comput.* **2025**.
+
 [PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
 Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R. B.; Zheng, Z.
@@ -21,25 +27,13 @@ The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
 [DOI](https://doi.org/10.48550/arXiv.2506.01295){: .btn .btn--danger}
 Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
 Adsorbate phase transitions on nanoclusters from nested sampling.
-*J. Chem. Phys.* **2025**, Accepted.
+*arXiv* **2025**, 2506.01295.
 
-[PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
-Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
-FreeBird jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.
-*J. Chem. Theory Comput.* **2025**, Accepted.
-
-[PDF](../assets/papers/Douglas2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.1039/D5MH01566A){: .btn .btn--danger}
-Douglas, T. C.; Dzara, M. J.; Rowberg, A. J. E.; King, K. A.; Syrigou, M.; Strange, N. A.; Bell, R. T.; Goyal, A.; Guan, P.-W.; Wexler, R. B.; Varley, J. B.; Ogitsu, T.; Lany, S.; McDaniel, A. H.; Bishop, S. R.; Witman, M. D.
-Large-scale experimental validation of thermochemical water-splitting oxides discovered by defect graph neural networks.
-*Mater. Horiz.* **2025**, Advance Article.
-
-[PDF](../assets/papers/Way2025p6473.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
-Way, L.; Spataru, C. D.; Jones, R. E.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E. J.; McDaniel, A. H.; Lany, S.; Witman, M. D.
-Defect Diffusion Graph Neural Networks for Materials Discovery in High-Temperature Energy Applications.
-*Chem. Mater.* **2025**, *37* (17), 6473–6484.
+[PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.26434/chemrxiv-2024-wrp5z){: .btn .btn--danger}
+Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
+Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
+*ChemRxiv* **2024**.
 
 [PDF](../assets/papers/Choudhary2024p93.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1038/s41524-024-01259-w){: .btn .btn--danger}
