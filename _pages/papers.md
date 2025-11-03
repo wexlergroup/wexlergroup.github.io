@@ -23,7 +23,7 @@ Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
 FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.
 *J. Chem. Theory Comput.* **2025**, *ASAP Article*.
 
-[PDF](../assets/papers/Douglas2025.pdf)
+[PDF](../assets/papers/Douglas2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D5MH01566A){: .btn .btn--danger}
 Douglas, T. C.; Dzara, M. J.; Rowberg, A. J. E.; King, K. A.; Syrigou, M.; Strange, N. A.; Bell, R. T.; Goyal, A.; Guan, P.-W.; Wexler, R. B.; Varley, J. B.; Ogitsu, T.; Lany, S.; McDaniel, A. H.; Bishop, S. R.; Witman, M. D.
 Large-scale experimental validation of thermochemical water-splitting oxides discovered by defect graph neural networks.
