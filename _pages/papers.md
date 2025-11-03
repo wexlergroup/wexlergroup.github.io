@@ -30,10 +30,10 @@ Adsorbate phase transitions on nanoclusters from nested sampling.
 *arXiv* **2025**, 2506.01295.
 
 [PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.26434/chemrxiv-2024-wrp5z){: .btn .btn--danger}
-Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
-Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
-*ChemRxiv* **2024**.
+[DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
+Way, L.; Spataru, C. D.; Jones, R. E.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E. J.; McDaniel, A. H.; Lany, S.; Witman, M. D.
+Defect Diffusion Graph Neural Networks for Materials Discovery in High-Temperature Energy Applications.
+*Chem. Mater.* **2025**, *37* (17), 6473–6484.
 
 [PDF](../assets/papers/Choudhary2024p93.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1038/s41524-024-01259-w){: .btn .btn--danger}
