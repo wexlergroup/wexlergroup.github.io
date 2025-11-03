@@ -11,29 +11,29 @@ layout: splash
 
 ## Wexler Group Papers
 
-[PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
-[DOI](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
-Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
-FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria
-*J. Chem. Theory Comput.* **2025**.
-
 [PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
 Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R. B.; Zheng, Z.
 The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
 *arXiv* **2025**, arXiv:2508.13197.
 
-[PDF](../assets/papers/Chatbipho2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.48550/arXiv.2506.01295){: .btn .btn--danger}
-Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
-Adsorbate phase transitions on nanoclusters from nested sampling.
-*arXiv* **2025**, 2506.01295.
+[PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
+Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
+FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.
+*J. Chem. Theory Comput.* **2025**, *ASAP Article*.
 
 [PDF](../assets/papers/Douglas2025.pdf)
 [DOI](https://doi.org/10.1039/D5MH01566A){: .btn .btn--danger}
 Douglas, T. C.; Dzara, M. J.; Rowberg, A. J. E.; King, K. A.; Syrigou, M.; Strange, N. A.; Bell, R. T.; Goyal, A.; Guan, P.-W.; Wexler, R. B.; Varley, J. B.; Ogitsu, T.; Lany, S.; McDaniel, A. H.; Bishop, S. R.; Witman, M. D.
 Large-scale experimental validation of thermochemical water-splitting oxides discovered by defect graph neural networks.
 *Mater. Horiz.* **2025**, *Advance Article*.
+
+[PDF](../assets/papers/Chatbipho2025.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1063/5.0283538){: .btn .btn--danger}
+Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
+Adsorbate phase transitions on nanoclusters from nested sampling.
+*J. Chem. Phys.* **2025**, *163* (17), 174701.
 
 [PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
