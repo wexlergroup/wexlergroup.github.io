@@ -29,6 +29,12 @@ Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
 Adsorbate phase transitions on nanoclusters from nested sampling.
 *arXiv* **2025**, 2506.01295.
 
+[PDF](../assets/papers/Douglas2025.pdf)
+[DOI](https://doi.org/10.1039/D5MH01566A){: .btn .btn--danger}
+Douglas, T. C.; Dzara, M. J.; Rowberg, A. J. E.; King, K. A.; Syrigou, M.; Strange, N. A.; Bell, R. T.; Goyal, A.; Guan, P.-W.; Wexler, R. B.; Varley, J. B.; Ogitsu, T.; Lany, S.; McDaniel, A. H.; Bishop, S. R.; Witman, M. D.
+Large-scale experimental validation of thermochemical water-splitting oxides discovered by defect graph neural networks.
+*Mater. Horiz.* **2025**, *Advance Article*.
+
 [PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
 Way, L.; Spataru, C. D.; Jones, R. E.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E. J.; McDaniel, A. H.; Lany, S.; Witman, M. D.
