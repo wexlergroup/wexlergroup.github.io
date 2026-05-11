@@ -11,12 +11,6 @@ layout: splash
 
 ## Wexler Group Papers
 
-[PDF](../assets/papers/Chen2026.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.48550/arXiv.2603.05420){: .btn .btn--danger}
-Chen, J.; Subramani, T.; Mekan, D.; Gendler, D.; Yang, R.; Kumar, M.; Householder, M.; Rosado Ortiz, A.; Hernandez-Pagan, E. A.; Lilova, K.; Wexler, R. B.
-Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.\
-*arXiv* **2026**, 2603.05420
-
 [PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
 [DOI](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
 Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
@@ -27,19 +21,19 @@ FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria
 [DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
 Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R. B.; Zheng, Z.
 The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
-*arXiv* **2025**, 2508.13197.
+*arXiv* **2025**, arXiv:2508.13197.
 
 [PDF](../assets/papers/Chatbipho2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.48550/arXiv.2506.01295){: .btn .btn--danger}
+[DOI](https://doi.org/10.1063/5.0283538){: .btn .btn--danger}
 Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
 Adsorbate phase transitions on nanoclusters from nested sampling.
-*arXiv* **2025**, 2506.01295.
+*J. Chem. Phys.* **2025**, *163* (17), 174701.
 
 [PDF](../assets/papers/Way2024.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.26434/chemrxiv-2024-wrp5z){: .btn .btn--danger}
-Way, L.; Spataru, C. D.; Jones, R.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E.; McDaniel, A. H.; Lany, S.; Witman, M. D.
-Defect diffusion graph neural networks for materials discovery in high-temperature, clean energy applications.
-*ChemRxiv* **2024**.
+[DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
+Way, L.; Spataru, C. D.; Jones, R. E.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; Wexler, R. B.; Smyth, C. M.; Douglas, T. C.; Bishop, S. R.; Fuller, E. J.; McDaniel, A. H.; Lany, S.; Witman, M. D.
+Defect Diffusion Graph Neural Networks for Materials Discovery in High-Temperature Energy Applications.
+*Chem. Mater.* **2025**, *37* (17), 6473–6484.
 
 [PDF](../assets/papers/Choudhary2024p93.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1038/s41524-024-01259-w){: .btn .btn--danger}
