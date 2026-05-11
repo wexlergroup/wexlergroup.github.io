@@ -30,20 +30,6 @@ layout: splash
 ## Postdoctoral Researchers
 
 <div class="card" onclick="toggleCard(this)">
-  <img src="/assets/images/ray-headshot.jpg" alt="Ray M. Yang" class="card-image">
-  <div class="container">
-    <p><b>Ray M. Yang</b></p>
-    <p><i>Postdoctoral Research Associate</i></p>
-    <div class="hidden-content">
-      <p>Ph.D., New Zealand Institute for Advanced Study, Massey University (2022)</p>
-      <p>B.S., University of Otago (2017)</p>
-      <p>Email: <a href="mailto:ray.yang@wustl.edu">ray.yang@wustl.edu</a></p>
-      <p>Office: Jolley Hall 408</p>
-    </div>
-  </div>
-</div>
-
-<div class="card" onclick="toggleCard(this)">
   <img src="/assets/images/manish-photo-1.jpg" alt="Manish Kumar" class="card-image">
   <div class="container">
     <p><b>Manish Kumar</b></p>
@@ -100,6 +86,19 @@ layout: splash
   </div>
 </div>
 
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/anna-csiki-fejer.jpg" alt="Anna Csiki-Fejer" class="card-image">
+  <div class="container">
+    <p><b>Anna Csiki-Fejer</b></p>
+    <p><i>Graduate Student</i></p>
+    <div class="hidden-content">
+      <p>B.S., Saint Louis University (2025)</p>
+      <p>Email: <a href="mailto:csiki-fejer@wustl.edu">csiki-fejer@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
+
 <!-- <div class="card" onclick="toggleCard(this)">
   <img src="/assets/masthead-logo/masthead-logo.png" alt="Ph.D. Opportunities" class="card-image">
   <div class="container">
@@ -112,6 +111,18 @@ layout: splash
 </div> -->
 
 ## Undergraduate Students
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/sebastian-photo.jpg" alt="Sebastian Pujet" class="card-image" style="width:120px; height:120px; object-fit:cover; object-position:center;">
+  <div class="container">
+    <p><b>Sebastian Pujet</b></p>
+    <p><i>Chemical Engineering & Computer Science</i></p>
+    <div class="hidden-content">
+      <p>Email: <a href="mailto:p.sebastian@wustl.edu">p.sebastian@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
 
 <div class="card" onclick="toggleCard(this)">
   <img src="/assets/images/audrey-headshot.jpg" alt="Audrey Hooper" class="card-image" style="width:120px; height:120px; object-fit:cover; object-position:center;">
@@ -137,29 +148,7 @@ layout: splash
   </div>
 </div>
 
-<div class="card" onclick="toggleCard(this)">
-  <img src="/assets/images/phoebe-photo.jpg" alt="Phoebe Taylor" class="card-image">
-  <div class="container">
-    <p><b>Phoebe Taylor</b></p>
-    <p><i>Computer Science</i></p>
-    <div class="hidden-content">
-      <p>Email: <a href="mailto:phoebe.t@wustl.edu">phoebe.t@wustl.edu</a></p>
-      <p>Office: Jolley Hall 424</p>
-    </div>
-  </div>
-</div>
 
-<div class="card" onclick="toggleCard(this)">
-  <img src="/assets/images/douglas-photo.jpg" alt="Douglas Thibodeaux" class="card-image">
-  <div class="container">
-    <p><b>Douglas Thibodeaux</b></p>
-    <p><i>Chemistry</i></p>
-    <div class="hidden-content">
-      <p>Email: <a href="mailto:d.t.thibodeaux@wustl.edu">d.t.thibodeaux@wustl.edu</a></p>
-      <p>Office: Jolley Hall 408</p>
-    </div>
-  </div>
-</div>
 
 <!-- <div class="card" onclick="toggleCard(this)">
   <img src="/assets/images/nancy-photo.png" alt="Nancy Patel">
@@ -187,7 +176,33 @@ layout: splash
 
 {: .text-justify}
 
-## Alumni
+## Previous Lab Members
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/ray-headshot.jpg" alt="Ray M. Yang" class="card-image">
+  <div class="container">
+    <p><b>Ray M. Yang</b></p>
+    <p><i>Postdoctoral Research Associate</i></p>
+    <div class="hidden-content">
+      <p>Ph.D., New Zealand Institute for Advanced Study, Massey University (2022)</p>
+      <p>B.S., University of Otago (2017)</p>
+      <p>Email: <a href="mailto:ray.yang@wustl.edu">ray.yang@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/douglas-photo.jpg" alt="Douglas Thibodeaux" class="card-image">
+  <div class="container">
+    <p><b>Douglas Thibodeaux</b></p>
+    <p><i>Chemistry</i></p>
+    <div class="hidden-content">
+      <p>Email: <a href="mailto:d.t.thibodeaux@wustl.edu">d.t.thibodeaux@wustl.edu</a></p>
+      <p>Office: Jolley Hall 408</p>
+    </div>
+  </div>
+</div>
 
 <div class="card" onclick="toggleCard(this)">
   <img src="/assets/images/avital-photo.png" alt="Avital Isakov">
@@ -196,6 +211,18 @@ layout: splash
     <p><i>Chemistry & Anthropology</i></p>
     <div class="hidden-content">
       <p>Current Position: Ph.D. Student, University of California, Los Angeles</p>
+    </div>
+  </div>
+</div>
+
+<div class="card" onclick="toggleCard(this)">
+  <img src="/assets/images/phoebe-photo.jpg" alt="Phoebe Taylor" class="card-image">
+  <div class="container">
+    <p><b>Phoebe Taylor</b></p>
+    <p><i>Computer Science</i></p>
+    <div class="hidden-content">
+      <p>Email: <a href="mailto:phoebe.t@wustl.edu">phoebe.t@wustl.edu</a></p>
+      <p>Office: Jolley Hall 424</p>
     </div>
   </div>
 </div>
