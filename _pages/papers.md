@@ -11,29 +11,41 @@ layout: splash
 
 ## Wexler Group Papers
 
-[PDF](../assets/papers/Duan2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.48550/arXiv.2508.13197){: .btn .btn--danger}
+[PDF](../assets/papers/Witman2026.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.26434/chemrxiv.15003938/v1){: .btn .btn--danger}
+Witman, M. D.; Pujet, S.; Rowberg, A. J. E.; Sutton, C.; Varley, J. B.; Lany, S.; Wexler, R. B.
+Transfer learning on universal interatomic potential embeddings improves generalization in structure-property defect models.
+*ChemRxiv* **2026**.
+
+[PDF](../assets/papers/Chen2026.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.48550/arXiv.2603.05420){: .btn .btn--danger}
+Chen, J.; Subramani, T.; Mekan, D.; Gendler, D.; Yang, R.; Kumar, M.; Householder, M.; Rosado Ortiz, A.; Hernandez-Pagan, E. A.; Lilova, K.; Wexler, R. B.
+Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.
+*arXiv* **2026**, arXiv:2603.05420.
+
+[PDF](../assets/papers/Duan2026p102748.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1016/j.matt.2026.102748){: .btn .btn--danger}
 Duan, C.; Nandy, A.; Pal, S. C.; Yang, X.; Gao, W.; Du, Y.; Kraß, H.; Kang, Y.; Bernales, V.; Ye, Z.; Pyle, T.; Yang, R.; Gu, Z.; Schwaller, P.; Ma, S.; Sun, S.; Aspuru-Guzik, A.; Moosavi, S. M.; Wexler, R. B.; Zheng, Z.
 The Rise of Generative AI for Metal-Organic Framework Design and Synthesis.
-*arXiv* **2025**, arXiv:2508.13197.
+*Matter* **2026**, *9*, 102748.
 
-[PDF](../assets/papers/Chatbipho2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.48550/arXiv.2506.01295){: .btn .btn--danger}
-Chatbipho, T.; Yang, R.; Wexler, R. B.; Pártay, Livia B.
-Adsorbate phase transitions on nanoclusters from nested sampling.
-*J. Chem. Phys.* **2025**, Accepted.
-
-[PDF](../assets/papers/Yang2025.pdf){: .btn .btn--primary}
-[DOI](https://doi.org/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
-Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
-FreeBird jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.
-*J. Chem. Theory Comput.* **2025**, Accepted.
-
-[PDF](../assets/papers/Douglas2025.pdf){: .btn .btn--primary}
+[PDF](../assets/papers/Douglas2026p829.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1039/D5MH01566A){: .btn .btn--danger}
 Douglas, T. C.; Dzara, M. J.; Rowberg, A. J. E.; King, K. A.; Syrigou, M.; Strange, N. A.; Bell, R. T.; Goyal, A.; Guan, P.-W.; Wexler, R. B.; Varley, J. B.; Ogitsu, T.; Lany, S.; McDaniel, A. H.; Bishop, S. R.; Witman, M. D.
 Large-scale experimental validation of thermochemical water-splitting oxides discovered by defect graph neural networks.
-*Mater. Horiz.* **2025**, Advance Article.
+*Mater. Horiz.* **2026**, *13*, 829.
+
+[PDF](../assets/papers/Chatbipho2025p174701.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1063/5.0283538){: .btn .btn--danger}
+Chatbipho, T.; Yang, M.; Wexler, R. B.; Pártay, L. B.
+Adsorbate phase transitions on nanoclusters from nested sampling.
+*J. Chem. Phys.* **2025**, *163*, 174701.
+
+[PDF](../assets/papers/Yang2025p10765.pdf){: .btn .btn--primary}
+[DOI](https://doi.org/10.1021/acs.jctc.5c01348){: .btn .btn--danger}
+Yang, R.; Chen, J.; Thibodeaux, D.; Wexler, R. B.
+FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.
+*J. Chem. Theory Comput.* **2025**, *21*, 10765.
 
 [PDF](../assets/papers/Way2025p6473.pdf){: .btn .btn--primary}
 [DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: .btn .btn--danger}
