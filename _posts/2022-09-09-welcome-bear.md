@@ -1,8 +1,8 @@
 ---
-title:  "Welcome, ``bear``!"
+title: "Wexler Group Adds ‘bear’ Server"
 author_profile: false
 ---
 
-``bear``, the Wexler group's Dell T550 server, arrived and will work on solving 
-grand challenges in energy and environment. Welcome, ``bear``!
+The Wexler Group added ``bear``, a Dell T550 server, to support computational
+research on energy and the environment.
 {: .text-justify}

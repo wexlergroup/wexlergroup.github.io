@@ -9,23 +9,25 @@ layout: splash
 
 <br>
 
-# Development
+# Software
+
+## Group-Developed Software
 
 <div class="card-new">
-  <img src="../assets/freebird/logo.png" alt="FreeBird.jl Logo" class="card-logo">
+  <img src="../assets/freebird/logo.png" alt="FreeBird.jl logo" class="card-logo">
   <h3>FreeBird.jl</h3>
-  <p class="justified">FreeBird.jl is a Julia package aimed at advancing statistical thermodynamic modeling of material imperfections. It integrates lattice models and atomistic systems with various sophisticated sampling methods, including direct quadrature, Metropolis Monte Carlo, replica exchange, Wang-Landau sampling, and nested sampling, to provide comprehensive and accurate simulations.</p>
+  <p class="justified">FreeBird.jl is a Julia package for statistical thermodynamic modeling of defects in materials. It supports lattice and atomistic models and implements direct quadrature, Metropolis Monte Carlo, replica exchange, Wang–Landau sampling, and nested sampling.</p>
   <div class="card-links">
     <a href="https://wexlergroup.github.io/FreeBird.jl/">Documentation</a>
     <a href="https://github.com/wexlergroup/FreeBird.jl">GitHub Repository</a>
   </div>
 </div>
 
-# Contributions
+## Contributions to Other Software Projects
 
 <div class="card-new">
   <h3>pymatnest</h3>
-  <p class="justified">The pymatnest package is a software library for carrying out nested sampling calculations. It can be used to explore the energy landscape of different materials (both clusters and bulk materials), calculate thermodynamic variables at arbitrary temperatures, locate phase transitions, and calculate the phase diagram. It can be used with LAMMPS and the supplied Fortran models, and both with MC and MD.</p>
+  <p class="justified">pymatnest is a library for nested-sampling calculations on clusters and bulk materials. It calculates thermodynamic variables across temperatures, locates phase transitions, and determines phase diagrams. Calculations can use LAMMPS or the supplied Fortran models and either Monte Carlo or molecular dynamics sampling.</p>
   <div class="card-links">
     <a href="https://libatoms.github.io/pymatnest/">Documentation</a>
     <a href="https://github.com/libAtoms/pymatnest">GitHub Repository</a>
@@ -33,9 +35,9 @@ layout: splash
 </div>
 
 <div class="card-new">
-  <img src="../assets/quacc/quacc_favicon.png" alt="quacc Logo" class="card-logo">
+  <img src="../assets/quacc/quacc_favicon.png" alt="quacc logo" class="card-logo">
   <h3>quacc</h3>
-  <p class="justified">quacc (pronounced "quack" 🦆) is a flexible platform for high-throughput computational materials science and quantum chemistry built for the exascale era, maintained by the Rosen Research Group at Princeton University.</p>
+  <p class="justified">quacc is a software package for high-throughput computational materials science and quantum chemistry. The Rosen Research Group at Princeton University maintains the package.</p>
   <div class="card-links">
     <a href="https://quantum-accelerators.github.io/quacc/">Documentation</a>
     <a href="https://github.com/Quantum-Accelerators/quacc">GitHub Repository</a>

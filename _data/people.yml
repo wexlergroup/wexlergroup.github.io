@@ -1,0 +1,108 @@
+principal_investigator:
+  name: Robert B. Wexler
+  role: Assistant Professor of Chemistry
+  image: /assets/images/rob-photo.png
+  image_alt: Robert B. Wexler
+  background:
+    - Postdoctoral Research Associate, Princeton University (2019–2022)
+    - Ph.D., University of Pennsylvania (2019)
+    - B.S., Drexel University (2013)
+  email: wexler@wustl.edu
+  office: Jolley Hall 407
+
+current_members:
+  - name: Manish Kumar
+    role: Postdoctoral Research Associate
+    image: /assets/images/manish-photo-1.jpg
+    image_alt: Manish Kumar
+    background:
+      - Ph.D., Indian Institute of Science Education and Research Bhopal (2021)
+      - M.S., Visvesvaraya National Institute of Technology Nagpur (2015)
+      - B.S., Ramjas College (2012)
+    email: kumarm@wustl.edu
+    office: Jolley Hall 408
+
+  - name: Junchi Chen
+    role: Graduate Student
+    image: /assets/images/junchi-photo.png
+    image_alt: Junchi Chen
+    background:
+      - M.E., Southern University of Science and Technology (2022)
+      - B.S., Zhejiang Gongshang University (2019)
+    email: c.junchi@wustl.edu
+    office: Jolley Hall 408
+
+  - name: Bridget Ferris
+    role: Graduate Student
+    image: /assets/images/bridget-ferris.jpg
+    image_alt: Bridget Ferris
+    background:
+      - B.S., Austin College (2024)
+    email: b.s.ferris@wustl.edu
+    office: Jolley Hall 408
+
+  - name: Eyob Tewelde
+    role: Graduate Student
+    image: /assets/images/eyob-tewelde.jpg
+    image_alt: Eyob Tewelde
+    background:
+      - B.S., University of Chicago (2024)
+    email: eyob@wustl.edu
+    office: Jolley Hall 408
+
+  - name: Anna Csiki-Fejer
+    role: Graduate Student
+    image: /assets/images/anna-csiki-fejer.jpg
+    image_alt: Anna Csiki-Fejer
+    background:
+      - B.S., Saint Louis University (2025)
+    email: csiki-fejer@wustl.edu
+    office: Jolley Hall 408
+
+  - name: Sebastian Pujet
+    role: Undergraduate Student
+    image: /assets/images/sebastian-photo.jpg
+    image_alt: Sebastian Pujet
+    background:
+      - Chemical Engineering & Computer Science
+    email: p.sebastian@wustl.edu
+    office: Jolley Hall 408
+
+  - name: Audrey Hooper
+    role: Undergraduate Student
+    image: /assets/images/audrey-headshot.jpg
+    image_alt: Audrey Hooper
+    background:
+      - Chemistry & Physics
+    email: a.v.hooper@wustl.edu
+    office: Jolley Hall 408
+
+former_members:
+  - name: Ray M. Yang
+    former_role: Postdoctoral Research Associate
+    current_position: Founder, Ainest OÜ
+    current_position_url: https://ainest.ee/
+
+  - name: Douglas Thibodeaux
+    former_role: Undergraduate Researcher in Chemistry
+
+  - name: Avital Isakov
+    former_role: Undergraduate Researcher in Chemistry and Anthropology
+    current_position: Graduate Student, Alexandrova Lab, UCLA
+    current_position_url: https://alexandrova.chem.ucla.edu/lab-members/
+
+  - name: Phoebe Taylor
+    former_role: Undergraduate Researcher in Computer Science
+    current_position: Undergraduate Student, Washington University in St. Louis
+
+  - name: Matthew Rao
+    former_role: Undergraduate Researcher in Computer Science, Mathematics, and Chemistry
+    current_position: Undergraduate Student, Washington University in St. Louis (Class of 2027)
+
+group_life:
+  - image: /assets/photos/FzgG7jHXoAABELm.jpg
+    alt: Researchers pose together in a garden
+  - image: /assets/photos/PXL_20240919_175409603.MP.jpg
+    alt: Seven group members gather around a table for dinner
+  - image: /assets/photos/PXL_20250318_012401192.MP.jpg
+    alt: Four group members pose beside an APS sign at a conference

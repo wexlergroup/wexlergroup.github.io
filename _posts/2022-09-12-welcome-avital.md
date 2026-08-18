@@ -1,8 +1,8 @@
 ---
-title:  "Welcome, Avital!"
+title: "Avital Isakov Joins the Wexler Group"
 author_profile: false
 ---
 
-Avital, a chemistry major at WashU, joined the group and will work on the 
-thermodynamics of defects in metal oxides. Welcome, Avital!
+Avital Isakov, a chemistry major at WashU, joined the Wexler Group and will
+study the thermodynamics of defects in metal oxides. Welcome, Avital!
 {: .text-justify}

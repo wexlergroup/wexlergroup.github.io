@@ -1,7 +1,7 @@
 ---
-title:  "Hello, World!"
+title: "Wexler Group Opens"
 author_profile: false
 ---
 
-The Wexler group is open for science!
+The Wexler Group is open.
 {: .text-justify}

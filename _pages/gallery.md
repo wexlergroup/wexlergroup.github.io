@@ -9,7 +9,8 @@ permalink: /gallery/
 <div class="gallery-grid">
   {% for image in site.static_files %}
     {% if image.path contains 'assets/photos' %}
-    <img src="{{ image.path | relative_url }}" alt="Gallery image" />
+    {% assign photo_alt = site.data.photo_alts[image.path] | default: "Wexler Group photograph" %}
+    <img src="{{ image.path | relative_url }}" alt="{{ photo_alt | escape }}" />
     {% endif %}
   {% endfor %}
 </div>
