@@ -1,0 +1,41 @@
+.teaching-page { max-width: 1120px; margin: 0 auto; color: #252728; line-height: 1.7; }
+.teaching-page a { color: #285b68; text-decoration: underline; text-underline-offset: 0.18em; }
+.teaching-page a:hover { color: #173f49; }
+.teaching-page a:focus-visible { outline: 3px solid #a51417; outline-offset: 4px; }
+.teaching-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin: 1rem 0 2rem;
+  padding: 0.75rem 0;
+  border-block: 1px solid #e0e4e5;
+}
+.teaching-nav a { display: inline-flex; align-items: center; min-height: 44px; }
+.teaching-course { margin: 2.5rem 0; }
+.teaching-course > h2 {
+  margin: 0 0 1.5rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid #a51417;
+  line-height: 1.4;
+  scroll-margin-top: 1rem;
+}
+.teaching-course-body { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: 2rem; align-items: start; }
+.teaching-course-text { min-width: 0; }
+.teaching-course-text > p:first-child { margin-top: 0; }
+.teaching-course-text .teaching-semesters { font-size: 0.85em; color: #515b5e; }
+.teaching-course .teaching-image { display: block; width: 100%; height: auto; max-height: 340px; object-fit: contain; margin: 0; }
+.teaching-links { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+.teaching-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid #70848b;
+  border-radius: 0.2rem;
+  font-size: 0.85em;
+}
+.teaching-links a:hover { background: #f4f6f6; }
+@media (max-width: 760px) {
+  .teaching-course-body { grid-template-columns: 1fr; gap: 1.5rem; }
+  .teaching-course .teaching-image { max-width: 440px; margin-inline: auto; }
+}

@@ -78,26 +78,33 @@ current_members:
     office: Jolley Hall 408
 
 former_members:
-  - name: Ray M. Yang
-    former_role: Postdoctoral Research Associate
-    current_position: Founder, Ainest OÜ
-    current_position_url: https://ainest.ee/
-
-  - name: Douglas Thibodeaux
-    former_role: Undergraduate Researcher in Chemistry
-
   - name: Avital Isakov
     former_role: Undergraduate Researcher in Chemistry and Anthropology
     current_position: Graduate Student, Alexandrova Lab, UCLA
     current_position_url: https://alexandrova.chem.ucla.edu/lab-members/
 
-  - name: Phoebe Taylor
-    former_role: Undergraduate Researcher in Computer Science
-    current_position: Undergraduate Student, Washington University in St. Louis
+  - name: Ethan Nussinov
+    former_role: Undergraduate Researcher in Data Science
+
+  - name: Nancy Patel
+    current_position: Software Engineer II, Oracle
+    former_role: Undergraduate Researcher in Computer Science, Mathematics, and Economics
 
   - name: Matthew Rao
     former_role: Undergraduate Researcher in Computer Science, Mathematics, and Chemistry
     current_position: Undergraduate Student, Washington University in St. Louis (Class of 2027)
+
+  - name: Phoebe Taylor
+    former_role: Undergraduate Researcher in Computer Science
+    current_position: Undergraduate Student, Washington University in St. Louis
+
+  - name: Douglas Thibodeaux
+    former_role: Undergraduate Researcher in Chemistry
+
+  - name: Ray M. Yang
+    former_role: Postdoctoral Research Associate
+    current_position: Founder, Ainest OÜ
+    current_position_url: https://ainest.ee/
 
 group_life:
   - image: /assets/photos/FzgG7jHXoAABELm.jpg

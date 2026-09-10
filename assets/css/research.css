@@ -1,0 +1,32 @@
+.research-page { max-width: 1120px; margin: 0 auto; padding-top: 1rem; line-height: 1.7; }
+.research-page > h1 { margin-top: 0; line-height: 1; }
+.research-page > p { max-width: 900px; }
+.research-page > h2 { margin-top: 2.5em; padding-bottom: 0.5em; border-bottom: 1px solid #e0e4e5; scroll-margin-top: 1rem; }
+.research-nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; padding: 1rem 0; margin-top: 1.5rem; border-block: 1px solid #e0e4e5; }
+.research-nav a { display: inline-flex; align-items: center; min-height: 44px; }
+.research-topic { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 2rem; align-items: start; }
+.research-description { grid-column: 1; grid-row: 1; min-width: 0; }
+.research-description p:first-child { margin-top: 0; }
+.research-figure { grid-column: 2; grid-row: 1; margin: 0; }
+.research-figure img { display: block; width: 100%; height: auto; }
+.research-references { margin-top: 1.5rem; padding: 1.25rem 1.5rem; background: #f4f6f6; border-left: 3px solid #70848b; }
+.research-references h3 { margin-top: 0; font-size: 1em; }
+.research-references ul { margin-bottom: 0; padding-left: 1.2em; }
+.research-references li { margin-bottom: 1.2em; overflow-wrap: anywhere; font-size: 0.85em; line-height: 1.65; }
+.research-references li:last-child { margin-bottom: 0; }
+.research-page a { color: #285b68; text-decoration: underline; text-underline-offset: 0.18em; }
+.research-page a:hover { color: #173f49; }
+.research-page a:focus-visible, .research-page summary:focus-visible { outline: 3px solid #a51417; outline-offset: 4px; }
+.research-computing details { border-bottom: 1px solid #d8dede; padding: 0.75rem 0; }
+.research-computing summary { cursor: pointer; min-height: 44px; padding: 0.5rem; font-weight: 700; }
+.research-computing details[open] summary { margin-bottom: 0.75rem; }
+.research-computing details p, .research-computing details ul { margin-left: 1.5rem; }
+@media (max-width: 760px) {
+  .research-topic { grid-template-columns: 1fr; gap: 1rem; }
+  .research-figure { grid-column: 1; grid-row: 1; max-width: 520px; }
+  .research-description { grid-column: 1; grid-row: 2; }
+  .research-references { padding: 1rem; }
+  .research-nav { flex-direction: column; gap: 0; }
+}
+
+.research-references a { display: inline-flex; align-items: center; min-height: 32px; }

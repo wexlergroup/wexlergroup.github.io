@@ -9,9 +9,9 @@
   --people-surface: #f7f7f6;
   --people-focus: #007360;
   width: 100%;
-  max-width: 70rem;
+  max-width: 1120px;
   margin-inline: auto;
-  padding-top: 0.75rem;
+  padding-top: 0;
   color: var(--people-ink);
 }
 
@@ -42,38 +42,33 @@
   content: "";
 }
 
+/* Give names a full row, with education and contact details beneath. */
 .people-directory-row {
   display: grid;
-  grid-template-columns:
-    4.75rem
-    minmax(9.5rem, 0.85fr)
-    minmax(15rem, 1.3fr)
-    minmax(11rem, 0.9fr);
-  gap: 1.25rem;
-  align-items: center;
+  grid-template-columns: 6rem minmax(0, 1.8fr) minmax(0, 1fr);
+  gap: 0.65rem 1.5rem;
+  align-items: start;
   min-width: 0;
-  padding: 1.1rem 0;
+  padding: 1.5rem 0;
   border-bottom: 1px solid var(--people-line);
 }
-
+.people-directory-row > .people-portrait { grid-column: 1; grid-row: 1 / span 2; }
+.people-directory-row > .people-identity { grid-column: 2 / -1; grid-row: 1; }
+.people-directory-row > .people-background { grid-column: 2; grid-row: 2; }
+.people-directory-row > .people-contact { grid-column: 3; grid-row: 2; }
 .people-directory-row--featured {
-  grid-template-columns:
-    7.25rem
-    minmax(10rem, 0.85fr)
-    minmax(15rem, 1.3fr)
-    minmax(11rem, 0.9fr);
   margin-bottom: 0.5rem;
-  padding: 1.2rem;
+  padding: 1.5rem;
   border: 1px solid var(--people-line);
   border-left: 0.25rem solid var(--people-red);
-  border-radius: 0.65rem;
+  border-radius: 0.3rem;
   background: var(--people-surface);
 }
 
 .people-portrait {
   display: block;
-  width: 4.75rem;
-  height: 4.75rem;
+  width: 6rem;
+  height: 6rem;
   max-width: none;
   border-radius: 0.5rem;
   background: var(--people-surface);
@@ -82,8 +77,8 @@
 }
 
 .people-directory-row--featured .people-portrait {
-  width: 7.25rem;
-  height: 7.25rem;
+  width: 6rem;
+  height: 6rem;
   border-radius: 0.6rem;
 }
 
@@ -93,7 +88,7 @@
   min-width: 0;
 }
 
-.people-name {
+.people-page .people-name {
   margin: 0;
   color: var(--people-ink);
   font-size: 1.08rem;
@@ -101,11 +96,11 @@
   line-height: 1.25;
 }
 
-.people-directory-row--featured .people-name {
+.people-page .people-directory-row--featured .people-name {
   font-size: clamp(1.25rem, 2vw, 1.45rem);
 }
 
-.people-role {
+.people-page .people-role {
   margin: 0.25rem 0 0;
   color: var(--people-red-dark);
   font-size: 0.9rem;
@@ -187,7 +182,10 @@
   overflow-wrap: anywhere;
 }
 
-.people-alumni-name {
+.people-page .people-alumni-name {
+  margin: 0;
+  font-size: 1em;
+  line-height: inherit;
   color: var(--people-ink);
   font-weight: 700;
 }
@@ -225,91 +223,22 @@
   font-weight: 700;
 }
 
-@media (max-width: 56rem) {
+@media (max-width: 760px) {
   .people-directory-row,
   .people-directory-row--featured {
-    grid-template-columns: 4.5rem minmax(0, 1fr);
-    gap: 0.45rem 0.9rem;
-    align-items: start;
+    grid-template-columns: 4.75rem minmax(0, 1fr);
+    gap: 0.75rem 1rem;
   }
-
-  .people-directory-row--featured {
-    padding: 1rem;
-  }
-
-  .people-portrait,
-  .people-directory-row--featured .people-portrait {
-    grid-row: 1 / span 3;
-    width: 4.5rem;
-    height: 4.5rem;
-  }
-
-  .people-identity,
-  .people-background,
-  .people-contact {
-    grid-column: 2;
-  }
-
-  .people-background,
-  .people-contact {
-    font-size: 0.86rem;
-  }
-
-  .people-alumni-header {
-    display: none;
-  }
-
-  .people-alumni-row {
-    grid-template-columns: 1fr;
-    gap: 0.55rem;
-    padding: 1rem 0;
-  }
-
-  .people-field-label {
-    display: block;
-    margin-bottom: 0.08rem;
-    color: var(--people-ink);
-    font-size: 0.68rem;
-    font-weight: 700;
-    letter-spacing: 0.055em;
-    line-height: 1.3;
-    text-transform: uppercase;
-  }
-}
-
-@media (max-width: 34rem) {
-  .people-section-title {
-    margin-top: 2rem;
-  }
-
-  .people-directory-row,
-  .people-directory-row--featured {
-    grid-template-columns: 4rem minmax(0, 1fr);
-    column-gap: 0.75rem;
-  }
-
-  .people-portrait,
-  .people-directory-row--featured .people-portrait {
-    width: 4rem;
-    height: 4rem;
-  }
-
-  .people-photo-strip {
-    grid-template-columns: none;
-    grid-auto-columns: minmax(78%, 1fr);
-    grid-auto-flow: column;
-    overflow-x: auto;
-    overscroll-behavior-inline: contain;
-    padding-bottom: 0.65rem;
-    scroll-behavior: auto;
-    scroll-snap-type: inline mandatory;
-    scrollbar-gutter: stable;
-    -webkit-overflow-scrolling: touch;
-  }
-
-  .people-photo-strip > * {
-    scroll-snap-align: start;
-  }
+  .people-directory-row--featured { padding: 1rem; }
+  .people-directory-row > .people-portrait { grid-row: 1; width: 4.75rem; height: 4.75rem; }
+  .people-directory-row > .people-identity { grid-column: 2; }
+  .people-directory-row > .people-background { grid-column: 1 / -1; grid-row: 2; }
+  .people-directory-row > .people-contact { grid-column: 1 / -1; grid-row: 3; }
+  .people-alumni-header { display: none; }
+  .people-alumni-row { grid-template-columns: 1fr; gap: 0.65rem; padding: 1.25rem 0; }
+  .people-field-label { display: block; margin-bottom: 0.15rem; color: var(--people-ink); font-weight: 600; font-size: 0.85em; }
+  .people-photo-strip { grid-template-columns: 1fr; }
+  .people-nav { flex-direction: column; gap: 0; }
 }
 
 @media (forced-colors: active) {
@@ -321,3 +250,28 @@
     background: CanvasText;
   }
 }
+
+/* Keep linked member entries clear of the navigation and easy to locate. */
+.people-page article[id] {
+  scroll-margin-top: 6rem;
+}
+
+.people-page article:target {
+  background: var(--people-surface);
+  outline: 2px solid var(--people-red);
+  outline-offset: 0.25rem;
+}
+
+.people-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin: 1rem 0 2rem;
+  padding: 0.75rem 0;
+  border-block: 1px solid var(--people-line);
+}
+.people-nav a { display: inline-flex; align-items: center; min-height: 44px; }
+.people-page a { color: #285b68; text-decoration: underline; }
+.people-section-title { scroll-margin-top: 1rem; }
+.people-contact a { display: inline-flex; align-items: center; min-height: 44px; }
+@media (max-width: 760px) { .people-nav { gap: 0; } }

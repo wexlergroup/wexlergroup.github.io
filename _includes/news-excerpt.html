@@ -1,0 +1,20 @@
+{%- comment -%}Preserve the theme's short summaries while linking member names.{%- endcomment -%}
+{%- assign excerpt = include.excerpt | markdownify | strip_html | truncate: 160 | escape -%}
+{%- assign members = site.data.people.current_members | concat: site.data.people.former_members -%}
+{%- for person in members -%}
+  {%- assign anchor = person.name | slugify -%}
+  {%- assign destination = '/people/#' | append: anchor | relative_url -%}
+  {%- capture link -%}<a class="person-link" href="{{ destination }}">{{ person.name }}</a>{%- endcapture -%}
+  {%- assign excerpt = excerpt | replace: person.name, link -%}
+  {%- if person.name == 'Ray M. Yang' -%}
+    {%- capture link -%}<a class="person-link" href="{{ destination }}" aria-label="Ray M. Yang">Ray Yang</a>{%- endcapture -%}
+    {%- assign excerpt = excerpt | replace: 'Ray Yang', link -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign principal = site.data.people.principal_investigator -%}
+{%- assign anchor = principal.name | slugify -%}
+{%- assign destination = '/people/#' | append: anchor | relative_url -%}
+{%- capture link -%}<a class="person-link" href="{{ destination }}">{{ principal.name }}</a>{%- endcapture -%}
+{%- assign excerpt = excerpt | replace: principal.name, link -%}
+{%- capture link -%}<a class="person-link" href="{{ destination }}" aria-label="{{ principal.name }}">Rob Wexler</a>{%- endcapture -%}
+{{- excerpt | replace: 'Rob Wexler', link -}}

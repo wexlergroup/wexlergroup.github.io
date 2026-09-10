@@ -1,2 +1,33 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.css" />
 <link rel="icon" href="/assets/logo/logo-without-text.ico">
+{% if page.header.crop_group_photo %}
+<style>
+  .page__hero-image {
+    aspect-ratio: 2.4 / 1;
+    object-fit: cover;
+    object-position: center 15%;
+  }
+</style>
+{% endif %}
+
+{% if page.about_page %}
+<link rel="stylesheet" href="{{ "/assets/css/about.css" | relative_url }}">
+{% endif %}
+
+{% if page.research_page %}
+<link rel="stylesheet" href="{{ "/assets/css/research.css" | relative_url }}">
+{% endif %}
+
+{% if page.papers_page %}
+<link rel="stylesheet" href="{{ "/assets/css/papers.css" | relative_url }}">
+{% endif %}
+
+{% if page.software_page %}
+<link rel="stylesheet" href="{{ "/assets/css/software.css" | relative_url }}">
+{% endif %}
+
+{% if page.teaching_page %}
+<link rel="stylesheet" href="{{ "/assets/css/teaching.css" | relative_url }}">
+{% endif %}
+
+<link rel="stylesheet" href="{{ "/assets/css/typography.css" | relative_url }}">

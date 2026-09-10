@@ -1,0 +1,39 @@
+.software-page { max-width: 1120px; margin: 0 auto; color: #252728; line-height: 1.7; }
+.software-page a { color: #285b68; text-decoration: underline; text-underline-offset: 0.18em; }
+.software-page a:hover { color: #173f49; }
+.software-page a:focus-visible { outline: 3px solid #a51417; outline-offset: 4px; }
+.software-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+  margin: 1rem 0 2rem;
+  padding: 0.75rem 0;
+  border-block: 1px solid #e0e4e5;
+}
+.software-nav a { display: inline-flex; align-items: center; min-height: 44px; }
+.software-page > h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid #a51417;
+  scroll-margin-top: 1rem;
+}
+.software-project { padding: 1.25rem 0 1.75rem; border-bottom: 1px solid #e0e4e5; }
+.software-project-header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: 1rem; }
+.software-project-header h3 { margin: 0; font-size: 1.25em; scroll-margin-top: 1rem; }
+.software-project .software-logo { width: 96px; height: 80px; object-fit: contain; margin: 0; }
+.software-project .software-description { margin: 0 0 1rem; max-width: 900px; }
+.software-links { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+.software-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.3rem 0.8rem;
+  border: 1px solid #70848b;
+  border-radius: 0.2rem;
+  font-size: 0.85em;
+}
+.software-links a:hover { background: #f4f6f6; }
+@media (max-width: 760px) {
+  .software-nav { flex-direction: column; gap: 0; }
+  .software-project .software-logo { width: 76px; height: 64px; }
+}

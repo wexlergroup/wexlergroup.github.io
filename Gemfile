@@ -6,6 +6,9 @@ gem "tzinfo-data"
 # Add it here before the plugins group or after it, just not inside any other group
 gem "faraday-retry"
 
+# Use the patched certificate handling for OpenSSL 3.6 compatibility.
+gem "openssl", "~> 3.3.3"
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
