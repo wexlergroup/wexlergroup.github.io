@@ -28,6 +28,24 @@ These manuscripts have not yet been peer reviewed.
 
 <article class="publication" markdown="1">
 
+### Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator.
+{: .publication-title}
+
+Rosen, A. S.; Goyal, N.; Ayers, B.; Bansal, V.; Baratta, J. H.; Blau, S. M.; Chiang, Y.; Choi, S.; Cohen, O. A.; Dallmann, B.; Demeyere, T.; Engler, W.; Fang, Y.-W.; Furrick, I.; Huerta, E.; Kim, H.; Kondo, H.; Kumar, A.; Kwon, J.; Mamun, O.; Musgrave III, C. B.; Oliaei, H.; Saha, A.; Sarpa, D.; Shi, B. X.; Shi, Y.; Wang, X.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
+{: .publication-authors}
+
+*arXiv* **2026**, arXiv:2609.33823.
+{: .publication-details}
+
+<div class="publication-links">
+  <a href="https://arxiv.org/pdf/2609.33823" aria-label="PDF: Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator.">PDF</a>
+  <a href="https://doi.org/10.48550/arXiv.2609.33823" aria-label="DOI: Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator.">DOI</a>
+</div>
+
+</article>
+
+<article class="publication" markdown="1">
+
 ### Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.
 {: .publication-title}
 
