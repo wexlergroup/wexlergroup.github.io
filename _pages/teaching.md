@@ -44,7 +44,7 @@ teaching_page: true
     <p>CHEM 4020/5020 covers the properties and kinetic theory of gases, chemical thermodynamics, and statistical mechanics.</p>
     <p class="teaching-semesters"><strong>Semesters:</strong> Spring 2023, Spring 2024, and Spring 2025</p>
     <div class="teaching-links">
-      <a href="https://rwexler.github.io/chem-402-5020/intro.html" aria-label="CHEM 4020/5020 course website">Course Website</a>
+      <a href="https://wexlergroup.github.io/chem-4020-5020/" aria-label="CHEM 4020/5020 course website">Course Website</a>
       <a href="../assets/chem-402-5020/syllabus.pdf" aria-label="CHEM 4020/5020 syllabus PDF">Syllabus (PDF)</a>
     </div>
   </div>
