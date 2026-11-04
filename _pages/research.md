@@ -135,7 +135,7 @@ test whether those principles apply to other material classes.
 
 - <a class="person-link" href="{{ '/people/#junchi-chen' | relative_url }}" aria-label="Junchi Chen">Chen, J.</a>; Subramani, T.; Mekan, D.; Gendler, D.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Householder, M.; Rosado Ortiz, A.;
   Hernandez-Pagan, E. A.; Lilova, K.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Equilibrium Thermochemistry and Crystallographic Morphology of
-  Manganese Sulfide Nanocrystals. *arXiv* **2026**, arXiv:2603.05420. Preprint.
+  Manganese Sulfide Nanocrystals. *npj Comput. Mater.* **2026**, in press.
   [PDF](../assets/papers/Chen2026.pdf){: aria-label="PDF: Manganese sulfide nanocrystals"} | [DOI](https://doi.org/10.48550/arXiv.2603.05420){: aria-label="DOI: Manganese sulfide nanocrystals"}
 
 </div>
