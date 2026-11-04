@@ -80,6 +80,9 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 
 </article>
 
+## Group Publications
+{: #group-publications}
+
 <article class="publication" markdown="1">
 
 ### Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.
@@ -88,7 +91,7 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 <a class="person-link" href="{{ '/people/#junchi-chen' | relative_url }}" aria-label="Junchi Chen">Chen, J.</a>; Subramani, T.; Mekan, D.; Gendler, D.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Householder, M.; Rosado Ortiz, A.; Hernandez-Pagan, E. A.; Lilova, K.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
 {: .publication-authors}
 
-*arXiv* **2026**, arXiv:2603.05420.
+*npj Comput. Mater.* **2026**, in press.
 {: .publication-details}
 
 <div class="publication-links">
@@ -97,9 +100,6 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 </div>
 
 </article>
-
-## Group Publications
-{: #group-publications}
 
 <article class="publication" markdown="1">
 
