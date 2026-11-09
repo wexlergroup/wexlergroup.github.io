@@ -61,6 +61,9 @@ operating conditions. The current research questions are:
 - Chatbipho, T.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>; Pártay, L. B. Adsorbate Phase Transitions on Nanoclusters from Nested Sampling.
   *J. Chem. Phys.* **2025**, *163* (17), 174701.
   [PDF](../assets/papers/Chatbipho2025p174701.pdf){: aria-label="PDF: Adsorbate phase transitions on nanoclusters"} | [DOI](https://doi.org/10.1063/5.0283538){: aria-label="DOI: Adsorbate phase transitions on nanoclusters"}
+- Tipping, A. D.; Huggins, B.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>; Garnett, R. Accelerating Materials Discovery with Active Thermodynamic
+  Surface Shape Mapping. *AI for Accelerated Materials Design (AI4Mat) Workshop, NeurIPS* **2026**.
+  [PDF](https://openreview.net/pdf?id=8hSxhqE9f9){: aria-label="PDF: Active thermodynamic surface shape mapping"} | [OpenReview](https://openreview.net/forum?id=8hSxhqE9f9){: aria-label="OpenReview: Active thermodynamic surface shape mapping"}
 
 </div>
 

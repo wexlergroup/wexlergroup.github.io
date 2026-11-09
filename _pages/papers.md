@@ -85,6 +85,24 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 
 <article class="publication" markdown="1">
 
+### Accelerating Materials Discovery with Active Thermodynamic Surface Shape Mapping.
+{: .publication-title}
+
+Tipping, A. D.; Huggins, B.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>; Garnett, R.
+{: .publication-authors}
+
+*AI for Accelerated Materials Design (AI4Mat) Workshop, NeurIPS* **2026**.
+{: .publication-details}
+
+<div class="publication-links">
+  <a href="https://openreview.net/pdf?id=8hSxhqE9f9" aria-label="PDF: Accelerating Materials Discovery with Active Thermodynamic Surface Shape Mapping.">PDF</a>
+  <a href="https://openreview.net/forum?id=8hSxhqE9f9" aria-label="OpenReview: Accelerating Materials Discovery with Active Thermodynamic Surface Shape Mapping.">OpenReview</a>
+</div>
+
+</article>
+
+<article class="publication" markdown="1">
+
 ### Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.
 {: .publication-title}
 
