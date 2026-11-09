@@ -145,7 +145,7 @@ test whether those principles apply to other material classes.
 
 ## Computing Resources
 
-Our group uses its bear, dragon, and wapiti systems for computational research.
+Our group uses its bear, dragon, and wapiti systems and national allocations such as Expanse for computational research.
 Expand each entry for hardware details.
 
 <div class="research-computing">
@@ -168,6 +168,17 @@ Expand each entry for hardware details.
   <details>
     <summary>wapiti — Wexler Group</summary>
     <p>A group-owned, single-node counterpart to dragon.</p>
+  </details>
+  <details>
+    <summary>Expanse — San Diego Supercomputer Center</summary>
+    <p>Through a <a href="https://nairrpilot.org/">National Artificial Intelligence Research Resource (NAIRR) Pilot</a>
+    Start-Up award, our group has 2,000 GPU hours on the
+    <a href="https://www.sdsc.edu/systems/expanse/">Expanse</a> AI resource for nested sampling selection of
+    fine-tuning data for foundation interatomic potentials.</p>
+    <ul>
+      <li>5 petaflops peak; 93,184 CPU cores and 208 NVIDIA GPUs</li>
+      <li>GPU nodes with four NVIDIA V100 SXM2 GPUs (32 GB each) connected by NVLink</li>
+    </ul>
   </details>
   <details>
     <summary>Theta — Past Computing Resource</summary>
