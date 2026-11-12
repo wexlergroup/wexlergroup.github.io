@@ -109,7 +109,7 @@ operating conditions. The current research questions are:
   [PDF](../assets/papers/Witman2026.pdf){: aria-label="PDF: Transfer learning for defect models"} | [DOI](https://doi.org/10.26434/chemrxiv.15003938/v1){: aria-label="DOI: Transfer learning for defect models"}
 - <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Ali, N.; Witman, M. D.; Zhai, S.; Miller, J. E.; Ermanoski, I.; Stechel, E. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Local B-Site
   Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.
-  *arXiv* **2026**, arXiv:2607.28752. Preprint.
+  *J. Mater. Chem. A* **2026**, in press.
   [PDF](https://arxiv.org/pdf/2607.28752){: aria-label="PDF: Local B-site chemistry and oxygen vacancies"} | [DOI](https://doi.org/10.48550/arXiv.2607.28752){: aria-label="DOI: Local B-site chemistry and oxygen vacancies"}
 
 </div>

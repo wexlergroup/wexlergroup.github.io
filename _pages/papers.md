@@ -46,24 +46,6 @@ Rosen, A. S.; Goyal, N.; Ayers, B.; Bansal, V.; Baratta, J. H.; Blau, S. M.; Chi
 
 <article class="publication" markdown="1">
 
-### Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.
-{: .publication-title}
-
-<a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Ali, N.; Witman, M. D.; Zhai, S.; Miller, J. E.; Ermanoski, I.; Stechel, E. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
-{: .publication-authors}
-
-*arXiv* **2026**, arXiv:2607.28752.
-{: .publication-details}
-
-<div class="publication-links">
-  <a href="https://arxiv.org/pdf/2607.28752" aria-label="PDF: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">PDF</a>
-  <a href="https://doi.org/10.48550/arXiv.2607.28752" aria-label="DOI: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">DOI</a>
-</div>
-
-</article>
-
-<article class="publication" markdown="1">
-
 ### Transfer Learning on Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models.
 {: .publication-title}
 
@@ -82,6 +64,24 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 
 ## Group Publications
 {: #group-publications}
+
+<article class="publication" markdown="1">
+
+### Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.
+{: .publication-title}
+
+<a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Ali, N.; Witman, M. D.; Zhai, S.; Miller, J. E.; Ermanoski, I.; Stechel, E. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
+{: .publication-authors}
+
+*J. Mater. Chem. A* **2026**, in press.
+{: .publication-details}
+
+<div class="publication-links">
+  <a href="https://arxiv.org/pdf/2607.28752" aria-label="PDF: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">PDF</a>
+  <a href="https://doi.org/10.48550/arXiv.2607.28752" aria-label="DOI: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">DOI</a>
+</div>
+
+</article>
 
 <article class="publication" markdown="1">
 
