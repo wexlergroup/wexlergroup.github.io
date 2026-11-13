@@ -95,7 +95,7 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 {: .publication-details}
 
 <div class="publication-links">
-  <a href="https://arxiv.org/pdf/2607.28752" aria-label="PDF: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">PDF</a>
+  <a href="../assets/papers/Kumar2026.pdf" aria-label="PDF: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">PDF</a>
   <a href="https://doi.org/10.48550/arXiv.2607.28752" aria-label="DOI: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">DOI</a>
 </div>
 
