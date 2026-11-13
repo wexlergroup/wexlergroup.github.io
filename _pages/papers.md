@@ -28,6 +28,24 @@ These manuscripts have not yet been peer reviewed.
 
 <article class="publication" markdown="1">
 
+### Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides.
+{: .publication-title}
+
+<a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; <a class="person-link" href="{{ '/people/#bridget-ferris' | relative_url }}" aria-label="Bridget Ferris">Ferris, B. S.</a>; <a class="person-link" href="{{ '/people/#avital-isakov' | relative_url }}" aria-label="Avital Isakov">Isakov, A.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
+{: .publication-authors}
+
+*arXiv* **2026**, arXiv:2611.15297. Submitted for publication.
+{: .publication-details}
+
+<div class="publication-links">
+  <a href="../assets/papers/Kumar2026b.pdf" aria-label="PDF: Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides.">PDF</a>
+  <a href="https://doi.org/10.48550/arXiv.2611.15297" aria-label="DOI: Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides.">DOI</a>
+</div>
+
+</article>
+
+<article class="publication" markdown="1">
+
 ### Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator.
 {: .publication-title}
 
