@@ -111,6 +111,10 @@ operating conditions. The current research questions are:
   Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.
   *J. Mater. Chem. A* **2026**, in press.
   [PDF](../assets/papers/Kumar2026.pdf){: aria-label="PDF: Local B-site chemistry and oxygen vacancies"} | [DOI](https://doi.org/10.48550/arXiv.2607.28752){: aria-label="DOI: Local B-site chemistry and oxygen vacancies"}
+- <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; <a class="person-link" href="{{ '/people/#bridget-ferris' | relative_url }}" aria-label="Bridget Ferris">Ferris, B. S.</a>; <a class="person-link" href="{{ '/people/#avital-isakov' | relative_url }}" aria-label="Avital Isakov">Isakov, A.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Periodic Trends in
+  Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides. *arXiv* **2026**, arXiv:2611.15297.
+  Submitted for publication.
+  [PDF](../assets/papers/Kumar2026b.pdf){: aria-label="PDF: Oxygen vacancies in main-group oxides"} | [DOI](https://doi.org/10.48550/arXiv.2611.15297){: aria-label="DOI: Oxygen vacancies in main-group oxides"}
 
 </div>
 
