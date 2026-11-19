@@ -62,6 +62,9 @@ Rosen, A. S.; Goyal, N.; Ayers, B.; Bansal, V.; Baratta, J. H.; Blau, S. M.; Chi
 
 </article>
 
+## Group Publications
+{: #group-publications}
+
 <article class="publication" markdown="1">
 
 ### Transfer Learning on Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models.
@@ -70,7 +73,7 @@ Rosen, A. S.; Goyal, N.; Ayers, B.; Bansal, V.; Baratta, J. H.; Blau, S. M.; Chi
 Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | relative_url }}" aria-label="Sebastian Pujet">Pujet, S.</a>; Rowberg, A. J. E.; Sutton, C.; Varley, J. B.; Lany, S.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
 {: .publication-authors}
 
-*ChemRxiv* **2026**. Submitted for publication.
+*PRX Intell.* **2026**, in press.
 {: .publication-details}
 
 <div class="publication-links">
@@ -79,9 +82,6 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 </div>
 
 </article>
-
-## Group Publications
-{: #group-publications}
 
 <article class="publication" markdown="1">
 

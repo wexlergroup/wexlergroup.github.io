@@ -104,8 +104,8 @@ operating conditions. The current research questions are:
   *Mater. Horiz.* **2026**, *13* (2), 829–839.
   [PDF](../assets/papers/Douglas2026p829.pdf){: aria-label="PDF: Experimental validation of water-splitting oxides"} | [DOI](https://doi.org/10.1039/D5MH01566A){: aria-label="DOI: Experimental validation of water-splitting oxides"}
 - Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | relative_url }}" aria-label="Sebastian Pujet">Pujet, S.</a>; Rowberg, A. J. E.; Sutton, C.; Varley, J. B.; Lany, S.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Transfer Learning on
-  Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models. *ChemRxiv*
-  **2026**. Submitted for publication.
+  Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models. *PRX Intell.*
+  **2026**, in press.
   [PDF](../assets/papers/Witman2026.pdf){: aria-label="PDF: Transfer learning for defect models"} | [DOI](https://doi.org/10.26434/chemrxiv.15003938/v2){: aria-label="DOI: Transfer learning for defect models"}
 - <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Ali, N.; Witman, M. D.; Zhai, S.; Miller, J. E.; Ermanoski, I.; Stechel, E. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Local B-Site
   Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.
