@@ -58,6 +58,7 @@ Rosen, A. S.; Goyal, N.; Ayers, B.; Bansal, V.; Baratta, J. H.; Blau, S. M.; Chi
 <div class="publication-links">
   <a href="https://arxiv.org/pdf/2609.33823" aria-label="PDF: Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator.">PDF</a>
   <a href="https://doi.org/10.48550/arXiv.2609.33823" aria-label="DOI: Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator.">DOI</a>
+  <a href="https://github.com/Quantum-Accelerators/quacc" aria-label="Code: Democratizing Atomistic Simulation Workflows for the AI Era with the Quantum Accelerator.">Code</a>
 </div>
 
 </article>
@@ -79,6 +80,8 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 <div class="publication-links">
   <a href="../assets/papers/Witman2026.pdf" aria-label="PDF: Transfer Learning on Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models.">PDF</a>
   <a href="https://doi.org/10.26434/chemrxiv.15003938/v2" aria-label="DOI: Transfer Learning on Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models.">DOI</a>
+  <a href="https://github.com/sandialabs/d2gnn" aria-label="Code: Transfer Learning on Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models.">Code</a>
+  <a href="https://doi.org/10.5281/zenodo.8087871" aria-label="Data: Transfer Learning on Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models.">Data</a>
 </div>
 
 </article>
@@ -91,12 +94,14 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Ali, N.; Witman, M. D.; Zhai, S.; Miller, J. E.; Ermanoski, I.; Stechel, E. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
 {: .publication-authors}
 
-*J. Mater. Chem. A* **2026**, in press.
+*J. Mater. Chem. A* **2026**, advance article.
 {: .publication-details}
 
 <div class="publication-links">
   <a href="../assets/papers/Kumar2026.pdf" aria-label="PDF: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">PDF</a>
-  <a href="https://doi.org/10.48550/arXiv.2607.28752" aria-label="DOI: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">DOI</a>
+  <a href="https://doi.org/10.1039/D6TA06895B" aria-label="DOI: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">DOI</a>
+  <a href="https://github.com/wexlergroup/cctm-screening" aria-label="Code: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">Code</a>
+  <a href="https://doi.org/10.17172/nomad.6d7e-hvb1" aria-label="Data: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">Data</a>
 </div>
 
 </article>
@@ -133,6 +138,8 @@ Tipping, A. D.; Huggins, B.; <a class="person-link" href="{{ '/people/#ray-m-yan
 <div class="publication-links">
   <a href="../assets/papers/Chen2026.pdf" aria-label="PDF: Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.">PDF</a>
   <a href="https://doi.org/10.48550/arXiv.2603.05420" aria-label="DOI: Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.">DOI</a>
+  <a href="https://github.com/wexlergroup/ET_CM_MnS-NCs" aria-label="Code: Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.">Code</a>
+  <a href="https://doi.org/10.17172/NOMAD/2025.12.19-1" aria-label="Data: Equilibrium Thermochemistry and Crystallographic Morphology of Manganese Sulfide Nanocrystals.">Data</a>
 </div>
 
 </article>
@@ -187,6 +194,7 @@ Chatbipho, T.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_
 <div class="publication-links">
   <a href="../assets/papers/Chatbipho2025p174701.pdf" aria-label="PDF: Adsorbate Phase Transitions on Nanoclusters from Nested Sampling.">PDF</a>
   <a href="https://doi.org/10.1063/5.0283538" aria-label="DOI: Adsorbate Phase Transitions on Nanoclusters from Nested Sampling.">DOI</a>
+  <a href="https://doi.org/10.5281/zenodo.17210009" aria-label="Data: Adsorbate Phase Transitions on Nanoclusters from Nested Sampling.">Data</a>
 </div>
 
 </article>
@@ -205,6 +213,8 @@ Chatbipho, T.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_
 <div class="publication-links">
   <a href="../assets/papers/Yang2025p10765.pdf" aria-label="PDF: FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.">PDF</a>
   <a href="https://doi.org/10.1021/acs.jctc.5c01348" aria-label="DOI: FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.">DOI</a>
+  <a href="https://github.com/wexlergroup/FreeBird.jl" aria-label="Code: FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.">Code</a>
+  <a href="https://github.com/wexlergroup/FreeBird.jl-paper-data-2025" aria-label="Data: FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria.">Data</a>
 </div>
 
 </article>
@@ -223,6 +233,7 @@ Way, L.; Spataru, C. D.; Jones, R. E.; Trinkle, D. R.; Rowberg, A. J. E.; Varley
 <div class="publication-links">
   <a href="../assets/papers/Way2025p6473.pdf" aria-label="PDF: Defect Diffusion Graph Neural Networks for Materials Discovery in High-Temperature Energy Applications.">PDF</a>
   <a href="https://doi.org/10.1021/acs.chemmater.5c00021" aria-label="DOI: Defect Diffusion Graph Neural Networks for Materials Discovery in High-Temperature Energy Applications.">DOI</a>
+  <a href="https://github.com/sandialabs/d2gnn" aria-label="Code: Defect Diffusion Graph Neural Networks for Materials Discovery in High-Temperature Energy Applications.">Code</a>
 </div>
 
 </article>
@@ -241,6 +252,7 @@ Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krog
 <div class="publication-links">
   <a href="../assets/papers/Choudhary2024p93.pdf" aria-label="PDF: JARVIS-Leaderboard: A Large-Scale Benchmark of Materials Design Methods.">PDF</a>
   <a href="https://doi.org/10.1038/s41524-024-01259-w" aria-label="DOI: JARVIS-Leaderboard: A Large-Scale Benchmark of Materials Design Methods.">DOI</a>
+  <a href="https://github.com/usnistgov/jarvis_leaderboard" aria-label="Code: JARVIS-Leaderboard: A Large-Scale Benchmark of Materials Design Methods.">Code</a>
 </div>
 
 </article>
@@ -259,6 +271,8 @@ Choudhary, K.; Wines, D.; Li, K.; Garrity, K. F.; Gupta, V.; Romero, A. H.; Krog
 <div class="publication-links">
   <a href="../assets/papers/Yang2024p13862.pdf" aria-label="PDF: Surface Phase Diagrams from Nested Sampling.">PDF</a>
   <a href="https://doi.org/10.1039/D4CP00050A" aria-label="DOI: Surface Phase Diagrams from Nested Sampling.">DOI</a>
+  <a href="https://github.com/libAtoms/pymatnest" aria-label="Code: Surface Phase Diagrams from Nested Sampling.">Code</a>
+  <a href="https://doi.org/10.7936/6RXS-103650" aria-label="Data: Surface Phase Diagrams from Nested Sampling.">Data</a>
 </div>
 
 </article>
@@ -316,6 +330,7 @@ Lupi, E.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_
 <div class="publication-links">
   <a href="../assets/papers/Wexler2023p1.pdf" aria-label="PDF: Materials Design Directions for Solar Thermochemical Water Splitting.">PDF</a>
   <a href="https://doi.org/10.1002/9781119752097.ch1" aria-label="DOI: Materials Design Directions for Solar Thermochemical Water Splitting.">DOI</a>
+  <a href="https://github.com/wexlergroup/stws" aria-label="Code: Materials Design Directions for Solar Thermochemical Water Splitting.">Code</a>
 </div>
 
 </article>
@@ -370,6 +385,7 @@ Gao, L.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_u
 <div class="publication-links">
   <a href="../assets/papers/Wexler2022p2200592.pdf" aria-label="PDF: Oxygen-Chlorine Chemisorption Scaling for Seawater Electrolysis on Transition Metals: The Role of Redox.">PDF</a>
   <a href="https://doi.org/10.1002/adts.202200592" aria-label="DOI: Oxygen-Chlorine Chemisorption Scaling for Seawater Electrolysis on Transition Metals: The Role of Redox.">DOI</a>
+  <a href="https://doi.org/10.17172/NOMAD/2022.08.14-1" aria-label="Data: Oxygen-Chlorine Chemisorption Scaling for Seawater Electrolysis on Transition Metals: The Role of Redox.">Data</a>
 </div>
 
 </article>
@@ -499,6 +515,7 @@ Kim, Y.-H.; Kim, S.; Kakekhani, A.; Park, J.; Park, J.-H.; Lee, D.; Heo, S.; Xu,
 <div class="publication-links">
   <a href="../assets/papers/Wexler2019p2321.pdf" aria-label="PDF: Automatic Prediction of Surface Phase Diagrams Using Ab Initio Grand Canonical Monte Carlo.">PDF</a>
   <a href="https://doi.org/10.1021/acs.jpcc.8b11093" aria-label="DOI: Automatic Prediction of Surface Phase Diagrams Using Ab Initio Grand Canonical Monte Carlo.">DOI</a>
+  <a href="https://github.com/rwexler/gcmc" aria-label="Code: Automatic Prediction of Surface Phase Diagrams Using Ab Initio Grand Canonical Monte Carlo.">Code</a>
 </div>
 
 </article>

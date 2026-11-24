@@ -54,13 +54,13 @@ operating conditions. The current research questions are:
 
 - <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, M.</a>; Pártay, L. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Surface Phase Diagrams from Nested Sampling. *Phys. Chem. Chem. Phys.* **2024**,
   *26* (18), 13862–13874.
-  [PDF](../assets/papers/Yang2024p13862.pdf){: aria-label="PDF: Surface phase diagrams from nested sampling"} | [DOI](https://doi.org/10.1039/D4CP00050A){: aria-label="DOI: Surface phase diagrams from nested sampling"}
+  [PDF](../assets/papers/Yang2024p13862.pdf){: aria-label="PDF: Surface phase diagrams from nested sampling"} | [DOI](https://doi.org/10.1039/D4CP00050A){: aria-label="DOI: Surface phase diagrams from nested sampling"} | [Code](https://github.com/libAtoms/pymatnest){: aria-label="Code: Surface phase diagrams from nested sampling"} | [Data](https://doi.org/10.7936/6RXS-103650){: aria-label="Data: Surface phase diagrams from nested sampling"}
 - <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#junchi-chen' | relative_url }}" aria-label="Junchi Chen">Chen, J.</a>; <a class="person-link" href="{{ '/people/#douglas-thibodeaux' | relative_url }}" aria-label="Douglas Thibodeaux">Thibodeaux, D.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase
   Equilibria. *J. Chem. Theory Comput.* **2025**, *21* (21), 10765–10779.
-  [PDF](../assets/papers/Yang2025p10765.pdf){: aria-label="PDF: FreeBird.jl"} | [DOI](https://doi.org/10.1021/acs.jctc.5c01348){: aria-label="DOI: FreeBird.jl"}
+  [PDF](../assets/papers/Yang2025p10765.pdf){: aria-label="PDF: FreeBird.jl"} | [DOI](https://doi.org/10.1021/acs.jctc.5c01348){: aria-label="DOI: FreeBird.jl"} | [Code](https://github.com/wexlergroup/FreeBird.jl){: aria-label="Code: FreeBird.jl"} | [Data](https://github.com/wexlergroup/FreeBird.jl-paper-data-2025){: aria-label="Data: FreeBird.jl"}
 - Chatbipho, T.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>; Pártay, L. B. Adsorbate Phase Transitions on Nanoclusters from Nested Sampling.
   *J. Chem. Phys.* **2025**, *163* (17), 174701.
-  [PDF](../assets/papers/Chatbipho2025p174701.pdf){: aria-label="PDF: Adsorbate phase transitions on nanoclusters"} | [DOI](https://doi.org/10.1063/5.0283538){: aria-label="DOI: Adsorbate phase transitions on nanoclusters"}
+  [PDF](../assets/papers/Chatbipho2025p174701.pdf){: aria-label="PDF: Adsorbate phase transitions on nanoclusters"} | [DOI](https://doi.org/10.1063/5.0283538){: aria-label="DOI: Adsorbate phase transitions on nanoclusters"} | [Data](https://doi.org/10.5281/zenodo.17210009){: aria-label="Data: Adsorbate phase transitions on nanoclusters"}
 - Tipping, A. D.; Huggins, B.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>; Garnett, R. Accelerating Materials Discovery with Active Thermodynamic
   Surface Shape Mapping. *AI for Accelerated Materials Design (AI4Mat) Workshop, NeurIPS* **2026**.
   [PDF](https://openreview.net/pdf?id=8hSxhqE9f9){: aria-label="PDF: Active thermodynamic surface shape mapping"} | [OpenReview](https://openreview.net/forum?id=8hSxhqE9f9){: aria-label="OpenReview: Active thermodynamic surface shape mapping"}
@@ -93,11 +93,11 @@ operating conditions. The current research questions are:
   Mathew, N.; Wood, M.; Rohskopf, A. D.; Hattrick-Simpers, J.; Wang, S.-H.; Achenie, L. E. K.; Xin, H.; Williams, M.;
   Biacchi, A. J.; Tavazza, F. JARVIS-Leaderboard: A Large-Scale Benchmark of Materials Design Methods.
   *npj Comput. Mater.* **2024**, *10*, 93.
-  [PDF](../assets/papers/Choudhary2024p93.pdf){: aria-label="PDF: JARVIS-Leaderboard"} | [DOI](https://doi.org/10.1038/s41524-024-01259-w){: aria-label="DOI: JARVIS-Leaderboard"}
+  [PDF](../assets/papers/Choudhary2024p93.pdf){: aria-label="PDF: JARVIS-Leaderboard"} | [DOI](https://doi.org/10.1038/s41524-024-01259-w){: aria-label="DOI: JARVIS-Leaderboard"} | [Code](https://github.com/usnistgov/jarvis_leaderboard){: aria-label="Code: JARVIS-Leaderboard"}
 - Way, L.; Spataru, C. D.; Jones, R. E.; Trinkle, D. R.; Rowberg, A. J. E.; Varley, J. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>; Smyth, C. M.;
   Douglas, T. C.; Bishop, S. R.; Fuller, E. J.; McDaniel, A. H.; Lany, S.; Witman, M. D. Defect Diffusion Graph Neural
   Networks for Materials Discovery in High-Temperature Energy Applications. *Chem. Mater.* **2025**, *37* (17), 6473–6484.
-  [PDF](../assets/papers/Way2025p6473.pdf){: aria-label="PDF: Defect diffusion graph neural networks"} | [DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: aria-label="DOI: Defect diffusion graph neural networks"}
+  [PDF](../assets/papers/Way2025p6473.pdf){: aria-label="PDF: Defect diffusion graph neural networks"} | [DOI](https://doi.org/10.1021/acs.chemmater.5c00021){: aria-label="DOI: Defect diffusion graph neural networks"} | [Code](https://github.com/sandialabs/d2gnn){: aria-label="Code: Defect diffusion graph neural networks"}
 - Douglas, T. C.; Dzara, M. J.; Rowberg, A. J. E.; King, K. A.; Syrigou, M.; Strange, N. A.; Bell, R. T.; Goyal, A.;
   Guan, P.-W.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>; Varley, J. B.; Ogitsu, T.; Lany, S.; McDaniel, A. H.; Bishop, S. R.; Witman, M. D. Large-Scale
   Experimental Validation of Thermochemical Water-Splitting Oxides Discovered by Defect Graph Neural Networks.
@@ -106,11 +106,11 @@ operating conditions. The current research questions are:
 - Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | relative_url }}" aria-label="Sebastian Pujet">Pujet, S.</a>; Rowberg, A. J. E.; Sutton, C.; Varley, J. B.; Lany, S.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Transfer Learning on
   Universal Interatomic Potential Embeddings Improves Generalization in Structure-Property Defect Models. *PRX Intell.*
   **2026**, in press.
-  [PDF](../assets/papers/Witman2026.pdf){: aria-label="PDF: Transfer learning for defect models"} | [DOI](https://doi.org/10.26434/chemrxiv.15003938/v2){: aria-label="DOI: Transfer learning for defect models"}
+  [PDF](../assets/papers/Witman2026.pdf){: aria-label="PDF: Transfer learning for defect models"} | [DOI](https://doi.org/10.26434/chemrxiv.15003938/v2){: aria-label="DOI: Transfer learning for defect models"} | [Code](https://github.com/sandialabs/d2gnn){: aria-label="Code: Transfer learning for defect models"} | [Data](https://doi.org/10.5281/zenodo.8087871){: aria-label="Data: Transfer learning for defect models"}
 - <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Ali, N.; Witman, M. D.; Zhai, S.; Miller, J. E.; Ermanoski, I.; Stechel, E. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Local B-Site
   Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.
-  *J. Mater. Chem. A* **2026**, in press.
-  [PDF](../assets/papers/Kumar2026.pdf){: aria-label="PDF: Local B-site chemistry and oxygen vacancies"} | [DOI](https://doi.org/10.48550/arXiv.2607.28752){: aria-label="DOI: Local B-site chemistry and oxygen vacancies"}
+  *J. Mater. Chem. A* **2026**, advance article.
+  [PDF](../assets/papers/Kumar2026.pdf){: aria-label="PDF: Local B-site chemistry and oxygen vacancies"} | [DOI](https://doi.org/10.1039/D6TA06895B){: aria-label="DOI: Local B-site chemistry and oxygen vacancies"} | [Code](https://github.com/wexlergroup/cctm-screening){: aria-label="Code: Local B-site chemistry and oxygen vacancies"} | [Data](https://doi.org/10.17172/nomad.6d7e-hvb1){: aria-label="Data: Local B-site chemistry and oxygen vacancies"}
 - <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; <a class="person-link" href="{{ '/people/#bridget-ferris' | relative_url }}" aria-label="Bridget Ferris">Ferris, B. S.</a>; <a class="person-link" href="{{ '/people/#avital-isakov' | relative_url }}" aria-label="Avital Isakov">Isakov, A.</a>; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Periodic Trends in
   Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides. *arXiv* **2026**, arXiv:2611.15297.
   Submitted for publication.
@@ -143,7 +143,7 @@ test whether those principles apply to other material classes.
 - <a class="person-link" href="{{ '/people/#junchi-chen' | relative_url }}" aria-label="Junchi Chen">Chen, J.</a>; Subramani, T.; Mekan, D.; Gendler, D.; <a class="person-link" href="{{ '/people/#ray-m-yang' | relative_url }}" aria-label="Ray M. Yang">Yang, R.</a>; <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Householder, M.; Rosado Ortiz, A.;
   Hernandez-Pagan, E. A.; Lilova, K.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a> Equilibrium Thermochemistry and Crystallographic Morphology of
   Manganese Sulfide Nanocrystals. *npj Comput. Mater.* **2026**, in press.
-  [PDF](../assets/papers/Chen2026.pdf){: aria-label="PDF: Manganese sulfide nanocrystals"} | [DOI](https://doi.org/10.48550/arXiv.2603.05420){: aria-label="DOI: Manganese sulfide nanocrystals"}
+  [PDF](../assets/papers/Chen2026.pdf){: aria-label="PDF: Manganese sulfide nanocrystals"} | [DOI](https://doi.org/10.48550/arXiv.2603.05420){: aria-label="DOI: Manganese sulfide nanocrystals"} | [Code](https://github.com/wexlergroup/ET_CM_MnS-NCs){: aria-label="Code: Manganese sulfide nanocrystals"} | [Data](https://doi.org/10.17172/NOMAD/2025.12.19-1){: aria-label="Data: Manganese sulfide nanocrystals"}
 
 </div>
 
