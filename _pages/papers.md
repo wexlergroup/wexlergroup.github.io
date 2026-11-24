@@ -94,12 +94,12 @@ Witman, M. D.; <a class="person-link" href="{{ '/people/#sebastian-pujet' | rela
 <a class="person-link" href="{{ '/people/#manish-kumar' | relative_url }}" aria-label="Manish Kumar">Kumar, M.</a>; Ali, N.; Witman, M. D.; Zhai, S.; Miller, J. E.; Ermanoski, I.; Stechel, E. B.; <a class="person-link" href="{{ '/people/#robert-b-wexler' | relative_url }}" aria-label="Robert B. Wexler">Wexler, R. B.</a>
 {: .publication-authors}
 
-*J. Mater. Chem. A* **2026**, in press.
+*J. Mater. Chem. A* **2026**, advance article.
 {: .publication-details}
 
 <div class="publication-links">
   <a href="../assets/papers/Kumar2026.pdf" aria-label="PDF: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">PDF</a>
-  <a href="https://doi.org/10.48550/arXiv.2607.28752" aria-label="DOI: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">DOI</a>
+  <a href="https://doi.org/10.1039/D6TA06895B" aria-label="DOI: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">DOI</a>
   <a href="https://github.com/wexlergroup/cctm-screening" aria-label="Code: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">Code</a>
   <a href="https://doi.org/10.17172/nomad.6d7e-hvb1" aria-label="Data: Local B-Site Chemistry Controls Oxygen-Vacancy Energetics in Ca–Ce–Ti–Mn Perovskites for Thermochemical Hydrogen Production.">Data</a>
 </div>
